@@ -26,4 +26,5 @@ los recursos de una forma más específica y proveer atención más especializad
 ## Referencias
 
 1. [BERT para responder preguntas sobre SQuAD 2.0 en Español](https://jaimesendraberenguer.medium.com/bert-para-responder-preguntas-sobre-squad-2-0-en-espa%C3%B1ol-5842748f051a)
-2. 
+2. Referencia.
+3. 
