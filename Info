@@ -1,0 +1,51 @@
+"""
+Closed Question Answering System
+
+Question answering - Hugging Face Course
+https://huggingface.co/course/chapter7/7?fw=pt
+
+notebooks/question_answering-tf.ipynb at main · huggingface/notebooks · GitHub
+Open-Domain Question Answering System
+How to Build an Open-Domain Question Answering System? | Lil'Log (lilianweng.github.io)
+
+eli5 · Datasets at Hugging Face
+
+Long_Form_Question_Answering_with_ELI5_and_Wikipedia (yjernite.github.io)
+
+
+
+Modelos:
+Bert: Deconstructing BERT, Part 2: Visualizing the Inner Workings of Attention | by Jesse Vig | Towards Data Science
+The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning) – Jay Alammar – Visualizing machine learning one concept at a time. (jalammar.github.io)
+
+
+NLP
+fast.ai - new fast.ai course: A Code-First Introduction to Natural Language Processing
+transformers/examples/pytorch/question-answering at main · huggingface/transformers · GitHub
+12_nlp_dive.ipynb - Colaboratory (google.com)
+
+
+
+
+Desarrollo Web
+Gradio
+
+
+
+Web ONG:
+Refugiados: conoce su realidad (accem.es)
+https://extranjeros.inclusion.gob.es/es/ProteccionAsilo/index.html
+
+https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/oficina-de-asilo-y-refugio/
+
+https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17242  (BOE)
+
+
+Cursos:
+GitHub - ujjwalkarn/Machine-Learning-Tutorials: machine learning and deep learning tutorials, articles and other resources
+
+
+How to Rank 10% in Your First Kaggle Competition | Wille (dnc1994.github.io)
+
+
+"""
