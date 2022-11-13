@@ -26,5 +26,8 @@ los recursos de una forma más específica y proveer atención más especializad
 ## Referencias
 
 1. [BERT para responder preguntas sobre SQuAD 2.0 en Español](https://jaimesendraberenguer.medium.com/bert-para-responder-preguntas-sobre-squad-2-0-en-espa%C3%B1ol-5842748f051a)
-2. Referencia.
-3. 
+2. [Question answering - Hugging Face Course](https://huggingface.co/course/chapter7/7?fw=pt)
+3. [ONG: ACCEM](accem.es)
+4. [Ministerio de Migración: Protección Internacional y Asilo](https://extranjeros.inclusion.gob.es/es/ProteccionAsilo/index.html)
+5. [Ministerio de Interior](https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/oficina-de-asilo-y-refugio/)
+6. [BOE](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17242) 
