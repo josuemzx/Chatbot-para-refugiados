@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿No hablo español?",
+              "id": 583349,
+              "answers": [
+                {
+                  "answer_id": 642444,
+                  "document_id": 1173248,
+                  "question_id": 583349,
+                  "text": "derecho a intérprete ",
+                  "answer_start": 547,
+                  "answer_end": 568,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Quines pueden solicitar las protecciónes?",
+              "id": 583339,
+              "answers": [
+                {
+                  "answer_id": 642434,
+                  "document_id": 1173248,
+                  "question_id": 583339,
+                  "text": "Las personas nacionales no comunitarias y las apátridas presentes en territorio español",
+                  "answer_start": 63,
+                  "answer_end": 150,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Donde puede solicitar protección?",
+              "id": 583341,
+              "answers": [
+                {
+                  "answer_id": 642436,
+                  "document_id": 1173248,
+                  "question_id": 583341,
+                  "text": "España.",
+                  "answer_start": 206,
+                  "answer_end": 213,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que puedo solicitar en España?",
+              "id": 583342,
+              "answers": [
+                {
+                  "answer_id": 642437,
+                  "document_id": 1173248,
+                  "question_id": 583342,
+                  "text": "protección internacional en España",
+                  "answer_start": 178,
+                  "answer_end": 212,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que derecho tengo como refugiado?",
+              "id": 583343,
+              "answers": [
+                {
+                  "answer_id": 642438,
+                  "document_id": 1173248,
+                  "question_id": 583343,
+                  "text": " solicitar protección internacional",
+                  "answer_start": 167,
+                  "answer_end": 202,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que derechos tienen los solicitante de asilo?",
+              "id": 583345,
+              "answers": [
+                {
+                  "answer_id": 642440,
+                  "document_id": 1173248,
+                  "question_id": 583345,
+                  "text": "sanitaria y a asistencia jurídica gratuita,",
+                  "answer_start": 311,
+                  "answer_end": 354,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que conllevará la solicitud?",
+              "id": 583347,
+              "answers": [
+                {
+                  "answer_id": 642442,
+                  "document_id": 1173248,
+                  "question_id": 583347,
+                  "text": " la condición de refugiado, así como de la concesión de la protección subsidiaria",
+                  "answer_start": 929,
+                  "answer_end": 1010,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que derechos tendra los refugiados?",
+              "id": 583346,
+              "answers": [
+                {
+                  "answer_id": 642441,
+                  "document_id": 1173248,
+                  "question_id": 583346,
+                  "text": " asistencia sanitaria y a asistencia jurídica gratuita",
+                  "answer_start": 299,
+                  "answer_end": 353,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que derechos tienen los solicitante de protección?",
+              "id": 583344,
+              "answers": [
+                {
+                  "answer_id": 642439,
+                  "document_id": 1173248,
+                  "question_id": 583344,
+                  "text": "derecho a asistencia sanitaria y a asistencia jurídica gratuita",
+                  "answer_start": 290,
+                  "answer_end": 353,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Que caracter dentra la información?",
+              "id": 583348,
+              "answers": [
+                {
+                  "answer_id": 642443,
+                  "document_id": 1173248,
+                  "question_id": 583348,
+                  "text": "tendrá carácter confidencial",
+                  "answer_start": 1175,
+                  "answer_end": 1203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Puedo solicitar traductor?",
+              "id": 583350,
+              "answers": [
+                {
+                  "answer_id": 642445,
+                  "document_id": 1173248,
+                  "question_id": 583350,
+                  "text": "derecho a intérprete",
+                  "answer_start": 547,
+                  "answer_end": 567,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Tiene coste la solicitud de asistencia sanitara, asistencia juridica, interprete, formalización de la solicitu y la tramitación?",
+              "id": 583351,
+              "answers": [
+                {
+                  "answer_id": 642446,
+                  "document_id": 1173248,
+                  "question_id": 583351,
+                  "text": "gratuita",
+                  "answer_start": 345,
+                  "answer_end": 353,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 16. Derecho a solicitar protección internacional.\n\n1. Las personas nacionales no comunitarias y las apátridas presentes en territorio español tienen derecho a solicitar protección internacional en España.\n\n2. Para su ejercicio, los solicitantes de protección internacional tendrán derecho a asistencia sanitaria y a asistencia jurídica gratuita, que se extenderá a la formalización de la solicitud y a toda la tramitación del procedimiento, y que se prestará en los términos previstos en la legislación española en esta materia, así como derecho a intérprete en los términos del artículo 22 de la Ley Orgánica 4/2000.\n\nLa asistencia jurídica referida en el párrafo anterior será preceptiva cuando las solicitudes se formalicen de acuerdo al procedimiento señalado en el artículo 21 de la presente Ley.\n\n3. La presentación de la solicitud conllevará la valoración de las circunstancias determinantes del reconocimiento de la condición de refugiado, así como de la concesión de la protección subsidiaria. De este extremo se informará en debida forma al solicitante.\n\n4. Toda información relativa al procedimiento, incluido el hecho de la presentación de la solicitud, tendrá carácter confidencial.",
+          "document_id": 1173248
+        }
+      ]
+    }
+  ]
+}
