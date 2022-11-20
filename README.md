@@ -31,4 +31,6 @@ los recursos de una forma más específica y proveer atención más especializad
 4. [Ministerio de Migración: Protección Internacional y Asilo](https://extranjeros.inclusion.gob.es/es/ProteccionAsilo/index.html)
 5. [Ministerio de Interior](https://www.interior.gob.es/opencms/es/servicios-al-ciudadano/tramites-y-gestiones/oficina-de-asilo-y-refugio/)
 6. [BOE](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17242)
-7. 
+7. Haystack (Para crear dataset) https://annotate.deepset.ai/user_management
+8. Fine tune, guai de usuario Haystack. https://haystack.deepset.ai/tutorials/02_finetune_a_model_on_your_data
+9. Modelo simple https://simpletransformers.ai/docs/qa-minimal-start/ (Explicativo de web)
