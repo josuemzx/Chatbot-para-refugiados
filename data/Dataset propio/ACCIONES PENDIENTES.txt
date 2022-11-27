@@ -3,9 +3,6 @@
 
 Base de datos - HayStack
 
-Eliminar documento Chatbot_Refugiados > 1271053. He intentado eliminarlo pero me indica que solo puede realizarlo el administrador.
-@Ivy, ¿crees que podrías probar si te deja eliminarlo? Se trata de la primera subida que veo que no quedó muy bien, se sustituye con los documentos subidos en fecha de hoy (27/Nov)
-
 Veo que en HayStack los textos con "acentos" o "ñ" se quedan en interrogante. He probado sustituyendo en fichero de texto, sin éxito.
 @Todos, no creo que vaya a tener impacto. No obstante, ¿qué pensáis vosotros?
 
