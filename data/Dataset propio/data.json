@@ -201,22 +201,6 @@
         {
           "qas": [
             {
-              "question": "¿De qué se encarga ACNUR?",
-              "id": 583268,
-              "answers": [
-                {
-                  "answer_id": 642360,
-                  "document_id": 1173228,
-                  "question_id": 583268,
-                  "text": "proteger a los refugiados y desplazados por persecuciones o conflictos",
-                  "answer_start": 118,
-                  "answer_end": 188,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
               "question": "¿Que significa ACNUR?",
               "id": 583267,
               "answers": [
@@ -240,6 +224,22 @@
                   "answer_id": 642361,
                   "document_id": 1173228,
                   "question_id": 583269,
+                  "text": "proteger a los refugiados y desplazados por persecuciones o conflictos",
+                  "answer_start": 118,
+                  "answer_end": 188,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿De qué se encarga ACNUR?",
+              "id": 583268,
+              "answers": [
+                {
+                  "answer_id": 642360,
+                  "document_id": 1173228,
+                  "question_id": 583268,
                   "text": "proteger a los refugiados y desplazados por persecuciones o conflictos",
                   "answer_start": 118,
                   "answer_end": 188,
@@ -481,106 +481,6 @@
         {
           "qas": [
             {
-              "question": "¿Que servicios y prestaciones tienen CAR?",
-              "id": 583277,
-              "answers": [
-                {
-                  "answer_id": 642369,
-                  "document_id": 1173230,
-                  "question_id": 583277,
-                  "text": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación de la actuación del C.A.R. dirigidas a la sociedad de acogida.",
-                  "answer_start": 0,
-                  "answer_end": 591,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Que servicios y prestaciones tienen C.A.R?",
-              "id": 583278,
-              "answers": [
-                {
-                  "answer_id": 642370,
-                  "document_id": 1173230,
-                  "question_id": 583278,
-                  "text": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación de la actuación del C.A.R",
-                  "answer_start": 0,
-                  "answer_end": 554,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Que servicios y prestaciones tienen el Centro de Acogida a Refugiados?",
-              "id": 583279,
-              "answers": [
-                {
-                  "answer_id": 642371,
-                  "document_id": 1173230,
-                  "question_id": 583279,
-                  "text": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación",
-                  "answer_start": 0,
-                  "answer_end": 528,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación de la actuación del C.A.R. dirigidas a la sociedad de acogida.",
-          "document_id": 1173230
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Las cuantias de ayudas?",
-              "id": 583297,
-              "answers": [
-                {
-                  "answer_id": 642389,
-                  "document_id": 1173236,
-                  "question_id": 583297,
-                  "text": "serán las mismas y en los mismos términos que las establecidas en la Resolución de 2015",
-                  "answer_start": 218,
-                  "answer_end": 305,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿La normativa para ayuda economica?",
-              "id": 583296,
-              "answers": [
-                {
-                  "answer_id": 642388,
-                  "document_id": 1173236,
-                  "question_id": 583296,
-                  "text": " RD 865-2006 Normas reguladoras ayudas CM",
-                  "answer_start": 52,
-                  "answer_end": 93,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Ayudas económicas a los beneficiarios de los CAR:    RD 865-2006 Normas reguladoras ayudas CM.\n2015 Resolución ayudas Centros.\n2017 Resolución ayudas Centros . Las cuantías máximas establecidas para cada tipo de ayuda serán las mismas y en los mismos términos que las establecidas en la Resolución de 2015.",
-          "document_id": 1173236
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
               "question": "¿Donde se presenta la solicitud?",
               "id": 583298,
               "answers": [
@@ -681,82 +581,30 @@
         {
           "qas": [
             {
-              "question": "¿Quién puede solicitar la condición de refugiado?",
-              "id": 598578,
+              "question": "Me han denegado el derecho de asilo.",
+              "id": 618637,
               "answers": [
                 {
-                  "answer_id": 650449,
-                  "document_id": 1271109,
-                  "question_id": 598578,
-                  "text": "se reconoce a toda persona que, debido a fundados temores de ser perseguida por motivos de raza, religi�n, nacionalidad, opiniones pol�ticas, pertenencia a determinado grupo social, de g�nero u orientaci�n sexual, se encuentra fuera del pa�s de su nacionalidad y no puede o, a causa de dichos temores, no quiere acogerse a la protecci�n de tal pa�s, o al ap�trida que, careciendo de nacionalidad y hall�ndose fuera del pa�s donde antes tuviera su residencia habitual, por los mismos motivos no puede o, a causa de dichos temores, no quiere regresar a �l, y no est� incurso en alguna de las causas de exclusi�n del art�culo 8 o de las causas de denegaci�n o revocaci�n del art�culo 9.",
-                  "answer_start": 65,
-                  "answer_end": 748,
+                  "answer_id": 662893,
+                  "document_id": 1288134,
+                  "question_id": 618637,
+                  "text": "En todo caso, el derecho de asilo se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+                  "answer_start": 34,
+                  "answer_end": 300,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 3. La condici�n de refugiado.\nLa condici�n de refugiado se reconoce a toda persona que, debido a fundados temores de ser perseguida por motivos de raza, religi�n, nacionalidad, opiniones pol�ticas, pertenencia a determinado grupo social, de g�nero u orientaci�n sexual, se encuentra fuera del pa�s de su nacionalidad y no puede o, a causa de dichos temores, no quiere acogerse a la protecci�n de tal pa�s, o al ap�trida que, careciendo de nacionalidad y hall�ndose fuera del pa�s donde antes tuviera su residencia habitual, por los mismos motivos no puede o, a causa de dichos temores, no quiere regresar a �l, y no est� incurso en alguna de las causas de exclusi�n del art�culo 8 o de las causas de denegaci�n o revocaci�n del art�culo 9.",
-          "document_id": 1271109
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Qué es el derecho de asilo?",
-              "id": 598576,
-              "answers": [
-                {
-                  "answer_id": 650448,
-                  "document_id": 1271108,
-                  "question_id": 598576,
-                  "text": "El derecho de asilo es la protecci�n dispensada a los nacionales no comunitarios o a los ap�tridas a quienes se reconozca la condici�n de refugiado en los t�rminos definidos en el art�culo 3 de esta Ley y en la Convenci�n sobre el Estatuto de los Refugiados, hecha en Ginebra el 28 de julio de 1951, y su Protocolo, suscrito en Nueva York el 31 de enero de 1967.",
-                  "answer_start": 33,
-                  "answer_end": 395,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 2. El derecho de asilo.\nEl derecho de asilo es la protecci�n dispensada a los nacionales no comunitarios o a los ap�tridas a quienes se reconozca la condici�n de refugiado en los t�rminos definidos en el art�culo 3 de esta Ley y en la Convenci�n sobre el Estatuto de los Refugiados, hecha en Ginebra el 28 de julio de 1951, y su Protocolo, suscrito en Nueva York el 31 de enero de 1967.",
-          "document_id": 1271108
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
+            },
             {
               "question": "¿Por qué me han denegado?",
-              "id": 609636,
+              "id": 618638,
               "answers": [
                 {
-                  "answer_id": 651459,
-                  "document_id": 1271116,
-                  "question_id": 609636,
-                  "text": "En todo caso, el derecho de asilo se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
-                  "answer_start": 34,
-                  "answer_end": 300,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "Me han denegado el derecho de asilo.",
-              "id": 609635,
-              "answers": [
-                {
-                  "answer_id": 651458,
-                  "document_id": 1271116,
-                  "question_id": 609635,
-                  "text": "En todo caso, el derecho de asilo se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+                  "answer_id": 662894,
+                  "document_id": 1288134,
+                  "question_id": 618638,
+                  "text": "En todo caso, el derecho de asilo se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
                   "answer_start": 34,
                   "answer_end": 300,
                   "answer_category": null
@@ -765,8 +613,8 @@
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 9. Causas de denegaci�n.\nEn todo caso, el derecho de asilo se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
-          "document_id": 1271116
+          "context": "Artículo 9. Causas de denegación.\nEn todo caso, el derecho de asilo se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+          "document_id": 1288134
         }
       ]
     },
@@ -775,56 +623,56 @@
         {
           "qas": [
             {
-              "question": "¿Qué es la protección subsidiaria?",
-              "id": 598579,
+              "question": "¿Que servicios y prestaciones tienen CAR?",
+              "id": 583277,
               "answers": [
                 {
-                  "answer_id": 650450,
-                  "document_id": 1271111,
-                  "question_id": 598579,
-                  "text": "El derecho a la protecci�n subsidiaria es el dispensado a las personas de otros pa�ses y a los ap�tridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas, pero respecto de las cuales se den motivos fundados para creer que si regresasen a su pa�s de origen en el caso de los nacionales o, al de su anterior residencia habitual en el caso de los ap�tridas, se enfrentar�an a un riesgo real de sufrir alguno de los da�os graves previstos en el art�culo 10 de esta Ley, y que no pueden o, a causa de dicho riesgo, no quieren, acogerse a la protecci�n del pa�s de que se trate, siempre que no concurra alguno de los supuestos mencionados en los art�culos 11 y 12 de esta Ley.",
-                  "answer_start": 39,
-                  "answer_end": 747,
+                  "answer_id": 642369,
+                  "document_id": 1173230,
+                  "question_id": 583277,
+                  "text": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación de la actuación del C.A.R. dirigidas a la sociedad de acogida.",
+                  "answer_start": 0,
+                  "answer_end": 591,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
             },
             {
-              "question": "No he sido reconocido como refugiado. ¿Qué alternativa tengo?",
-              "id": 598580,
+              "question": "¿Que servicios y prestaciones tienen C.A.R?",
+              "id": 583278,
               "answers": [
                 {
-                  "answer_id": 650451,
-                  "document_id": 1271111,
-                  "question_id": 598580,
-                  "text": "El derecho a la protecci�n subsidiaria es el dispensado a las personas de otros pa�ses y a los ap�tridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas",
-                  "answer_start": 39,
-                  "answer_end": 230,
+                  "answer_id": 642370,
+                  "document_id": 1173230,
+                  "question_id": 583278,
+                  "text": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación de la actuación del C.A.R",
+                  "answer_start": 0,
+                  "answer_end": 554,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
             },
             {
-              "question": "No he obtenido el derecho de asilo. ¿Qué alternativas tengo?",
-              "id": 598581,
+              "question": "¿Que servicios y prestaciones tienen el Centro de Acogida a Refugiados?",
+              "id": 583279,
               "answers": [
                 {
-                  "answer_id": 650452,
-                  "document_id": 1271111,
-                  "question_id": 598581,
-                  "text": "El derecho a la protecci�n subsidiaria es el dispensado a las personas de otros pa�ses y a los ap�tridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas",
-                  "answer_start": 39,
-                  "answer_end": 230,
+                  "answer_id": 642371,
+                  "document_id": 1173230,
+                  "question_id": 583279,
+                  "text": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación",
+                  "answer_start": 0,
+                  "answer_end": 528,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 4. La protecci�n subsidiaria.\nEl derecho a la protecci�n subsidiaria es el dispensado a las personas de otros pa�ses y a los ap�tridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas, pero respecto de las cuales se den motivos fundados para creer que si regresasen a su pa�s de origen en el caso de los nacionales o, al de su anterior residencia habitual en el caso de los ap�tridas, se enfrentar�an a un riesgo real de sufrir alguno de los da�os graves previstos en el art�culo 10 de esta Ley, y que no pueden o, a causa de dicho riesgo, no quieren, acogerse a la protecci�n del pa�s de que se trate, siempre que no concurra alguno de los supuestos mencionados en los art�culos 11 y 12 de esta Ley.",
-          "document_id": 1271111
+          "context": "Alojamiento y manutención temporal.\nInformación y asesoramiento sobre nueva situación.\nOrientación para su incorporación al sistema educativo, sanitario y social.\nAtención psicológica.\nAtención social especializada y gestión de ayudas económicas complementarias.\nDesarrollo de cursos para aprendizaje de la lengua y de habilidades sociales básicas.\nOrientación e intermediación para la formación profesional e inserción laboral.\nActividades ocupacionales y de ocio y tiempo libre.\nActividades de sensibilización y de divulgación de la actuación del C.A.R. dirigidas a la sociedad de acogida.",
+          "document_id": 1173230
         }
       ]
     },
@@ -833,284 +681,40 @@
         {
           "qas": [
             {
-              "question": "¿Cuál es el objetivo de la Ley 12/2009, de 30 de octubre?",
-              "id": 598569,
+              "question": "¿Las cuantias de ayudas?",
+              "id": 583297,
               "answers": [
                 {
-                  "answer_id": 650441,
-                  "document_id": 1271110,
-                  "question_id": 598569,
-                  "text": "establecer los t�rminos en que las personas nacionales de pa�ses no comunitarios y las ap�tridas podr�n gozar en Espa�a de la protecci�n internacional constituida por el derecho de asilo y la protecci�n subsidiaria, as� como el contenido de dicha protecci�n internacional",
-                  "answer_start": 149,
-                  "answer_end": 420,
+                  "answer_id": 642389,
+                  "document_id": 1173236,
+                  "question_id": 583297,
+                  "text": "serán las mismas y en los mismos términos que las establecidas en la Resolución de 2015",
+                  "answer_start": 218,
+                  "answer_end": 305,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
             },
             {
-              "question": "¿Cuál es el objetivo de la ley reguladora del derecho de asilo y de la protección subsidiaria?",
-              "id": 598570,
+              "question": "¿La normativa para ayuda economica?",
+              "id": 583296,
               "answers": [
                 {
-                  "answer_id": 650442,
-                  "document_id": 1271110,
-                  "question_id": 598570,
-                  "text": "establecer los t�rminos en que las personas nacionales de pa�ses no comunitarios y las ap�tridas podr�n gozar en Espa�a de la protecci�n internacional constituida por el derecho de asilo y la protecci�n subsidiaria, as� como el contenido de dicha protecci�n internacional",
-                  "answer_start": 149,
-                  "answer_end": 420,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿En qué consiste la ley reguladora del derecho de asilo y de la protección subsidiaria?",
-              "id": 598571,
-              "answers": [
-                {
-                  "answer_id": 650443,
-                  "document_id": 1271110,
-                  "question_id": 598571,
-                  "text": "establecer los t�rminos en que las personas nacionales de pa�ses no comunitarios y las ap�tridas podr�n gozar en Espa�a de la protecci�n internacional constituida por el derecho de asilo y la protecci�n subsidiaria, as� como el contenido de dicha protecci�n internacional",
-                  "answer_start": 149,
-                  "answer_end": 420,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿En qué consiste la Ley 12/2009, de 30 de octubre?",
-              "id": 598572,
-              "answers": [
-                {
-                  "answer_id": 650444,
-                  "document_id": 1271110,
-                  "question_id": 598572,
-                  "text": "establecer los t�rminos en que las personas nacionales de pa�ses no comunitarios y las ap�tridas podr�n gozar en Espa�a de la protecci�n internacional constituida por el derecho de asilo y la protecci�n subsidiaria, as� como el contenido de dicha protecci�n internacional",
-                  "answer_start": 149,
-                  "answer_end": 420,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué personas se consideran en la ley reguladora del derecho de asilo y de la protección subsidiaria?",
-              "id": 598573,
-              "answers": [
-                {
-                  "answer_id": 650445,
-                  "document_id": 1271110,
-                  "question_id": 598573,
-                  "text": "las personas nacionales de pa�ses no comunitarios y las ap�tridas",
-                  "answer_start": 180,
-                  "answer_end": 245,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué colectivos se consideran en la ley reguladora del derecho de asilo y de la protección subsidiaria?",
-              "id": 598574,
-              "answers": [
-                {
-                  "answer_id": 650446,
-                  "document_id": 1271110,
-                  "question_id": 598574,
-                  "text": "las personas nacionales de pa�ses no comunitarios y las ap�tridas",
-                  "answer_start": 180,
-                  "answer_end": 245,
+                  "answer_id": 642388,
+                  "document_id": 1173236,
+                  "question_id": 583296,
+                  "text": " RD 865-2006 Normas reguladoras ayudas CM",
+                  "answer_start": 52,
+                  "answer_end": 93,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 1. Objeto de la ley.\nLa presente Ley, de acuerdo con lo previsto en el apartado cuatro del art�culo 13 de la Constituci�n, tiene por objeto establecer los t�rminos en que las personas nacionales de pa�ses no comunitarios y las ap�tridas podr�n gozar en Espa�a de la protecci�n internacional constituida por el derecho de asilo y la protecci�n subsidiaria, as� como el contenido de dicha protecci�n internacional.",
-          "document_id": 1271110
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Qué derechos tendría si se me concediera la protección subsidiaria?",
-              "id": 598583,
-              "answers": [
-                {
-                  "answer_id": 650454,
-                  "document_id": 1271112,
-                  "question_id": 598583,
-                  "text": "no devoluci�n ni expulsi�n de las personas a quienes se les haya reconocido, as� como en la adopci�n de las medidas contempladas en el art�culo 36 de esta Ley y en las normas que lo desarrollen, en la normativa de la Uni�n Europea y en los Convenios internacionales ratificados por Espa�a.",
-                  "answer_start": 167,
-                  "answer_end": 456,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué derechos tendría si se me concediera el derecho de asilo?",
-              "id": 598582,
-              "answers": [
-                {
-                  "answer_id": 650453,
-                  "document_id": 1271112,
-                  "question_id": 598582,
-                  "text": "no devoluci�n ni expulsi�n de las personas a quienes se les haya reconocido, as� como en la adopci�n de las medidas contempladas en el art�culo 36 de esta Ley y en las normas que lo desarrollen, en la normativa de la Uni�n Europea y en los Convenios internacionales ratificados por Espa�a.",
-                  "answer_start": 167,
-                  "answer_end": 456,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 5. Derechos garantizados con el asilo y la protecci�n subsidiaria.\nLa protecci�n concedida con el derecho de asilo y la protecci�n subsidiaria consiste en la no devoluci�n ni expulsi�n de las personas a quienes se les haya reconocido, as� como en la adopci�n de las medidas contempladas en el art�culo 36 de esta Ley y en las normas que lo desarrollen, en la normativa de la Uni�n Europea y en los Convenios internacionales ratificados por Espa�a.",
-          "document_id": 1271112
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Qué es nacionalidad?",
-              "id": 609623,
-              "answers": [
-                {
-                  "answer_id": 651446,
-                  "document_id": 1271113,
-                  "question_id": 609623,
-                  "text": "el concepto de nacionalidad no se limitar� a poseer o no la ciudadan�a, sino que comprender�, en particular, la pertenencia a un grupo determinado por su identidad cultural, �tnica o ling��stica, sus or�genes geogr�ficos o pol�ticos comunes o su relaci�n con la poblaci�n de otro Estado",
-                  "answer_start": 674,
-                  "answer_end": 960,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué se entiende por raza?",
-              "id": 609621,
-              "answers": [
-                {
-                  "answer_id": 651444,
-                  "document_id": 1271113,
-                  "question_id": 609621,
-                  "text": " el concepto de raza comprender�, en particular, el color, el origen o la pertenencia a un determinado grupo �tnico;",
-                  "answer_start": 126,
-                  "answer_end": 242,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué entendemos por religión?",
-              "id": 609622,
-              "answers": [
-                {
-                  "answer_id": 651445,
-                  "document_id": 1271113,
-                  "question_id": 609622,
-                  "text": "el concepto de religi�n comprender�, en particular, la profesi�n de creencias te�stas, no te�stas y ateas, la participaci�n o la abstenci�n de hacerlo, en cultos formales en privado o en p�blico, ya sea individualmente o en comunidad, as� como otros actos o expresiones que comporten una opini�n de car�cter religioso, o formas de conducta personal o comunitaria basadas en cualquier creencia religiosa u ordenadas por �sta",
-                  "answer_start": 246,
-                  "answer_end": 669,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué se entiende por opiniones políticas?",
-              "id": 609624,
-              "answers": [
-                {
-                  "answer_id": 651447,
-                  "document_id": 1271113,
-                  "question_id": 609624,
-                  "text": "el concepto de opiniones pol�ticas comprender�, en particular, la profesi�n de opiniones, ideas o creencias sobre un asunto relacionado con los agentes potenciales de persecuci�n y con sus pol�ticas o m�todos, independientemente de que el solicitante haya o no obrado de acuerdo con tales opiniones, ideas o creencias",
-                  "answer_start": 965,
-                  "answer_end": 1282,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué se considera como grupo social?",
-              "id": 609625,
-              "answers": [
-                {
-                  "answer_id": 651448,
-                  "document_id": 1271113,
-                  "question_id": 609625,
-                  "text": "se considerar� que un grupo constituye un grupo social determinado, si, en particular:\n- las personas integrantes de dicho grupo comparten una caracter�stica innata o unos antecedentes comunes que no pueden cambiarse, o bien comparten una caracter�stica o creencia que resulta tan fundamental para su identidad o conciencia que no se les puede exigir que renuncien a ella, y\n- dicho grupo posee una identidad diferenciada en el pa�s de que se trate por ser percibido como diferente por la sociedad que lo rodea o por el agente o agentes perseguidores.\nEn funci�n de las circunstancias imperantes en el pa�s de origen, se incluye en el concepto de grupo social determinado un grupo basado en una caracter�stica com�n de orientaci�n sexual o identidad sexual, y, o, edad, sin que estos aspectos por s� solos puedan dar lugar a la aplicaci�n del presente art�culo",
-                  "answer_start": 1287,
-                  "answer_end": 2147,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Puedo solicitar protección como refugiado por mi orientación sexual?",
-              "id": 609626,
-              "answers": [
-                {
-                  "answer_id": 651449,
-                  "document_id": 1271113,
-                  "question_id": 609626,
-                  "text": "sin que estos aspectos por s� solos puedan dar lugar a la aplicaci�n del presente art�culo",
-                  "answer_start": 2057,
-                  "answer_end": 2147,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Debe haber un problema racial para que se me considere refugiado?",
-              "id": 609627,
-              "answers": [
-                {
-                  "answer_id": 651450,
-                  "document_id": 1271113,
-                  "question_id": 609627,
-                  "text": "En la valoraci�n acerca de si la persona solicitante tiene fundados temores a ser perseguida ser� indiferente el hecho de que posea realmente la caracter�stica racial, religiosa, nacional, social o pol�tica que suscita la persecuci�n, a condici�n de que el agente de persecuci�n se la atribuya",
-                  "answer_start": 2608,
-                  "answer_end": 2901,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Debe haber una situación de conflicto en religión para que sea considerado refugiado?",
-              "id": 609628,
-              "answers": [
-                {
-                  "answer_id": 651451,
-                  "document_id": 1271113,
-                  "question_id": 609628,
-                  "text": " En la valoraci�n acerca de si la persona solicitante tiene fundados temores a ser perseguida ser� indiferente el hecho de que posea realmente la caracter�stica racial, religiosa, nacional, social o pol�tica que suscita la persecuci�n, a condici�n de que el agente de persecuci�n se la atribuya.",
-                  "answer_start": 2607,
-                  "answer_end": 2902,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 7. Motivos de persecuci�n.\n1. Al valorar los motivos de persecuci�n se tendr�n en cuenta los siguientes elementos:\na) el concepto de raza comprender�, en particular, el color, el origen o la pertenencia a un determinado grupo �tnico;\nb) el concepto de religi�n comprender�, en particular, la profesi�n de creencias te�stas, no te�stas y ateas, la participaci�n o la abstenci�n de hacerlo, en cultos formales en privado o en p�blico, ya sea individualmente o en comunidad, as� como otros actos o expresiones que comporten una opini�n de car�cter religioso, o formas de conducta personal o comunitaria basadas en cualquier creencia religiosa u ordenadas por �sta;\nc) el concepto de nacionalidad no se limitar� a poseer o no la ciudadan�a, sino que comprender�, en particular, la pertenencia a un grupo determinado por su identidad cultural, �tnica o ling��stica, sus or�genes geogr�ficos o pol�ticos comunes o su relaci�n con la poblaci�n de otro Estado;\nd) el concepto de opiniones pol�ticas comprender�, en particular, la profesi�n de opiniones, ideas o creencias sobre un asunto relacionado con los agentes potenciales de persecuci�n y con sus pol�ticas o m�todos, independientemente de que el solicitante haya o no obrado de acuerdo con tales opiniones, ideas o creencias;\ne) se considerar� que un grupo constituye un grupo social determinado, si, en particular:\n- las personas integrantes de dicho grupo comparten una caracter�stica innata o unos antecedentes comunes que no pueden cambiarse, o bien comparten una caracter�stica o creencia que resulta tan fundamental para su identidad o conciencia que no se les puede exigir que renuncien a ella, y\n- dicho grupo posee una identidad diferenciada en el pa�s de que se trate por ser percibido como diferente por la sociedad que lo rodea o por el agente o agentes perseguidores.\nEn funci�n de las circunstancias imperantes en el pa�s de origen, se incluye en el concepto de grupo social determinado un grupo basado en una caracter�stica com�n de orientaci�n sexual o identidad sexual, y, o, edad, sin que estos aspectos por s� solos puedan dar lugar a la aplicaci�n del presente art�culo. En ning�n caso podr� entenderse como orientaci�n sexual, la realizaci�n de conductas tipificadas como delito en el ordenamiento jur�dico espa�ol.\nAsimismo, en funci�n de las circunstancias imperantes en el pa�s de origen, se incluye a las personas que huyen de sus pa�ses de origen debido a fundados temores de sufrir persecuci�n por motivos de g�nero y, o, edad, sin que estos aspectos por s� solos puedan dar lugar a la aplicaci�n del presente art�culo.\n2. En la valoraci�n acerca de si la persona solicitante tiene fundados temores a ser perseguida ser� indiferente el hecho de que posea realmente la caracter�stica racial, religiosa, nacional, social o pol�tica que suscita la persecuci�n, a condici�n de que el agente de persecuci�n se la atribuya.",
-          "document_id": 1271113
+          "context": "Ayudas económicas a los beneficiarios de los CAR:    RD 865-2006 Normas reguladoras ayudas CM.\n2015 Resolución ayudas Centros.\n2017 Resolución ayudas Centros . Las cuantías máximas establecidas para cada tipo de ayuda serán las mismas y en los mismos términos que las establecidas en la Resolución de 2015.",
+          "document_id": 1173236
         }
       ]
     },
@@ -1120,13 +724,13 @@
           "qas": [
             {
               "question": "¿Qué daños pueden llevar a la asignación de protección subsidiaria?",
-              "id": 609640,
+              "id": 618640,
               "answers": [
                 {
-                  "answer_id": 651463,
-                  "document_id": 1271118,
-                  "question_id": 609640,
-                  "text": "Constituyen los da�os graves que dan lugar a la protecci�n subsidiaria prevista en el art�culo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecuci�n material;\nb) la tortura y los tratos inhumanos o degradantes en el pa�s de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
+                  "answer_id": 662897,
+                  "document_id": 1288135,
+                  "question_id": 618640,
+                  "text": "Constituyen los daños graves que dan lugar a la protección subsidiaria prevista en el artículo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecución material;\nb) la tortura y los tratos inhumanos o degradantes en el país de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
                   "answer_start": 27,
                   "answer_end": 459,
                   "answer_category": null
@@ -1135,14 +739,14 @@
               "is_impossible": false
             },
             {
-              "question": "¿Qué se consideran daños graves?",
-              "id": 609641,
+              "question": "¿ué se consideran daños graves?",
+              "id": 618641,
               "answers": [
                 {
-                  "answer_id": 651464,
-                  "document_id": 1271118,
-                  "question_id": 609641,
-                  "text": "Constituyen los da�os graves que dan lugar a la protecci�n subsidiaria prevista en el art�culo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecuci�n material;\nb) la tortura y los tratos inhumanos o degradantes en el pa�s de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
+                  "answer_id": 662898,
+                  "document_id": 1288135,
+                  "question_id": 618641,
+                  "text": "Constituyen los daños graves que dan lugar a la protección subsidiaria prevista en el artículo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecución material;\nb) la tortura y los tratos inhumanos o degradantes en el país de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
                   "answer_start": 27,
                   "answer_end": 459,
                   "answer_category": null
@@ -1151,14 +755,14 @@
               "is_impossible": false
             },
             {
-              "question": "¿Qué se consideran daños graves, en base a los cuales se pueda solicitar protección subsidiaria?",
-              "id": 609642,
+              "question": "¿Qué se consideran daños graves,  en base a los cuales se pueda solicitar protección subsidiaria?",
+              "id": 618642,
               "answers": [
                 {
-                  "answer_id": 651465,
-                  "document_id": 1271118,
-                  "question_id": 609642,
-                  "text": "Constituyen los da�os graves que dan lugar a la protecci�n subsidiaria prevista en el art�culo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecuci�n material;\nb) la tortura y los tratos inhumanos o degradantes en el pa�s de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
+                  "answer_id": 662899,
+                  "document_id": 1288135,
+                  "question_id": 618642,
+                  "text": "Constituyen los daños graves que dan lugar a la protección subsidiaria prevista en el artículo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecución material;\nb) la tortura y los tratos inhumanos o degradantes en el país de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
                   "answer_start": 27,
                   "answer_end": 459,
                   "answer_category": null
@@ -1167,8 +771,8 @@
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 10. Da�os graves.\nConstituyen los da�os graves que dan lugar a la protecci�n subsidiaria prevista en el art�culo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecuci�n material;\nb) la tortura y los tratos inhumanos o degradantes en el pa�s de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
-          "document_id": 1271118
+          "context": "Artículo 10. Daños graves.\nConstituyen los daños graves que dan lugar a la protección subsidiaria prevista en el artículo 4 de esta Ley:\na) la condena a pena de muerte o el riesgo de su ejecución material;\nb) la tortura y los tratos inhumanos o degradantes en el país de origen del solicitante;\nc) las amenazas graves contra la vida o la integridad de los civiles motivadas por una violencia indiscriminada en situaciones de conflicto internacional o interno.",
+          "document_id": 1288135
         }
       ]
     },
@@ -1178,13 +782,13 @@
           "qas": [
             {
               "question": "Me han denegado la protección subsidiaria.",
-              "id": 609637,
+              "id": 618647,
               "answers": [
                 {
-                  "answer_id": 651460,
-                  "document_id": 1271117,
-                  "question_id": 609637,
-                  "text": "En todo caso, la protecci�n subsidiaria se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+                  "answer_id": 662904,
+                  "document_id": 1288137,
+                  "question_id": 618647,
+                  "text": "En todo caso, la protección subsidiaria se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
                   "answer_start": 35,
                   "answer_end": 307,
                   "answer_category": null
@@ -1194,13 +798,13 @@
             },
             {
               "question": "¿Por qué me han denegado la protección subsidiaria?",
-              "id": 609638,
+              "id": 618648,
               "answers": [
                 {
-                  "answer_id": 651461,
-                  "document_id": 1271117,
-                  "question_id": 609638,
-                  "text": "En todo caso, la protecci�n subsidiaria se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+                  "answer_id": 662905,
+                  "document_id": 1288137,
+                  "question_id": 618648,
+                  "text": "En todo caso, la protección subsidiaria se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
                   "answer_start": 35,
                   "answer_end": 307,
                   "answer_category": null
@@ -1210,13 +814,13 @@
             },
             {
               "question": "¿Por qué motivos nos pueden denegar la protección subsidiaria?",
-              "id": 609639,
+              "id": 618649,
               "answers": [
                 {
-                  "answer_id": 651462,
-                  "document_id": 1271117,
-                  "question_id": 609639,
-                  "text": "En todo caso, la protecci�n subsidiaria se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+                  "answer_id": 662907,
+                  "document_id": 1288137,
+                  "question_id": 618649,
+                  "text": "En todo caso, la protección subsidiaria se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
                   "answer_start": 35,
                   "answer_end": 307,
                   "answer_category": null
@@ -1225,8 +829,8 @@
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 12. Causas de denegaci�n.\nEn todo caso, la protecci�n subsidiaria se denegar� a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de Espa�a;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
-          "document_id": 1271117
+          "context": "Artículo 12. Causas de denegación.\nEn todo caso, la protección subsidiaria se denegará a:\na) las personas que constituyan, por razones fundadas, un peligro para la seguridad de España;\nb) las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza para la comunidad.",
+          "document_id": 1288137
         }
       ]
     },
@@ -1235,198 +839,14 @@
         {
           "qas": [
             {
-              "question": "¿Qué actos se consideran como persecución?",
-              "id": 609629,
+              "question": "Cuáles son las organizaciones que brindan protección",
+              "id": 618651,
               "answers": [
                 {
-                  "answer_id": 651452,
-                  "document_id": 1271114,
-                  "question_id": 609629,
-                  "text": "1. Los actos en que se basen los fundados temores a ser objeto de persecuci�n en el sentido previsto en el art�culo 3 de esta Ley, deber�n:\na) ser suficientemente graves por su naturaleza o car�cter reiterado como para constituir una violaci�n grave de los derechos fundamentales, en particular los derechos que no puedan ser objeto de excepciones al amparo del apartado segundo del art�culo 15 del Convenio Europeo para la Protecci�n de los Derechos Humanos y de las Libertades Fundamentales, o bien\nb) ser una acumulaci�n lo suficientemente grave de varias medidas, incluidas las violaciones de derechos humanos, como para afectar a una persona de manera similar a la mencionada en la letra a).",
-                  "answer_start": 34,
-                  "answer_end": 730,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué se considera como actos de persecución graves?",
-              "id": 609630,
-              "answers": [
-                {
-                  "answer_id": 651453,
-                  "document_id": 1271114,
-                  "question_id": 609630,
-                  "text": "2. Los actos de persecuci�n definidos en el apartado primero podr�n revestir, entre otras, las siguientes formas:\na) actos de violencia f�sica o ps�quica, incluidos los actos de violencia sexual;\nb) medidas legislativas, administrativas, policiales o judiciales que sean discriminatorias en s� mismas o que se apliquen de manera discriminatoria;\nc) procesamientos o penas que sean desproporcionados o discriminatorios;\nd) denegaci�n de tutela judicial de la que se deriven penas desproporcionadas o discriminatorias;\ne) procesamientos o penas por la negativa a prestar servicio militar en un conflicto en el que el cumplimiento de dicho servicio conllevar�a delitos o actos comprendidos en las cl�usulas de exclusi�n establecidas en el apartado segundo del art�culo 8 de esta Ley;\nf) actos de naturaleza sexual que afecten a adultos o a ni�os.",
-                  "answer_start": 731,
-                  "answer_end": 1574,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Es suficiente para solicitar la condición de refugiado, que existan actos de persecución?",
-              "id": 609631,
-              "answers": [
-                {
-                  "answer_id": 651454,
-                  "document_id": 1271114,
-                  "question_id": 609631,
-                  "text": "3. Los actos de persecuci�n definidos en el presente art�culo deber�n estar relacionados con los motivos mencionados en el art�culo siguiente.",
-                  "answer_start": 1575,
-                  "answer_end": 1717,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 6. Actos de persecuci�n.\n1. Los actos en que se basen los fundados temores a ser objeto de persecuci�n en el sentido previsto en el art�culo 3 de esta Ley, deber�n:\na) ser suficientemente graves por su naturaleza o car�cter reiterado como para constituir una violaci�n grave de los derechos fundamentales, en particular los derechos que no puedan ser objeto de excepciones al amparo del apartado segundo del art�culo 15 del Convenio Europeo para la Protecci�n de los Derechos Humanos y de las Libertades Fundamentales, o bien\nb) ser una acumulaci�n lo suficientemente grave de varias medidas, incluidas las violaciones de derechos humanos, como para afectar a una persona de manera similar a la mencionada en la letra a).\n2. Los actos de persecuci�n definidos en el apartado primero podr�n revestir, entre otras, las siguientes formas:\na) actos de violencia f�sica o ps�quica, incluidos los actos de violencia sexual;\nb) medidas legislativas, administrativas, policiales o judiciales que sean discriminatorias en s� mismas o que se apliquen de manera discriminatoria;\nc) procesamientos o penas que sean desproporcionados o discriminatorios;\nd) denegaci�n de tutela judicial de la que se deriven penas desproporcionadas o discriminatorias;\ne) procesamientos o penas por la negativa a prestar servicio militar en un conflicto en el que el cumplimiento de dicho servicio conllevar�a delitos o actos comprendidos en las cl�usulas de exclusi�n establecidas en el apartado segundo del art�culo 8 de esta Ley;\nf) actos de naturaleza sexual que afecten a adultos o a ni�os.\n3. Los actos de persecuci�n definidos en el presente art�culo deber�n estar relacionados con los motivos mencionados en el art�culo siguiente.",
-          "document_id": 1271114
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Por qué motivo puedo quedar excluido de la condición de refugiado?",
-              "id": 609633,
-              "answers": [
-                {
-                  "answer_id": 651456,
-                  "document_id": 1271115,
-                  "question_id": 609633,
-                  "text": "1. Quedar�n excluidas de la condici�n de refugiados:\na) las personas que est�n comprendidas en el �mbito de aplicaci�n de la secci�n D del art�culo 1 de la Convenci�n de Ginebra en lo relativo a la protecci�n o asistencia de un �rgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados. Cuando esta protecci�n o asistencia haya cesado por cualquier motivo, sin que la suerte de tales personas se haya solucionado definitivamente con arreglo a las Resoluciones aprobadas sobre el particular por la Asamblea General de las Naciones Unidas, aqu�llas tendr�n, �ipso facto�, derecho a los beneficios del asilo regulado en la presente Ley;\nb) las personas a quienes las autoridades competentes del pa�s donde hayan fijado su residencia les hayan reconocido los derechos y obligaciones que son inherentes a la posesi�n de la nacionalidad de tal pa�s, o derechos y obligaciones equivalentes a ellos.\n2. Tambi�n quedar�n excluidas las personas extranjeras sobre las que existan motivos fundados para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del pa�s de refugio antes de ser admitidas como refugiadas, es decir, antes de la expedici�n de una autorizaci�n de residencia basada en el reconocimiento de la condici�n de refugiado, un delito grave, entendi�ndose por tal los que lo sean conforme al C�digo Penal espa�ol y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidaci�n en las personas, as� como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el t�rmino delincuencia organizada la recogida en el apartado cuarto del art�culo 282 bis de la Ley de Enjuiciamiento Criminal, en relaci�n con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Pre�mbulo y en los art�culos 1 y 2 de la Carta de las Naciones Unidas.",
-                  "answer_start": 33,
-                  "answer_end": 2269,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Por qué motivo puedo quedar excluido de la protección subsidiaria?",
-              "id": 609634,
-              "answers": [
-                {
-                  "answer_id": 651457,
-                  "document_id": 1271115,
-                  "question_id": 609634,
-                  "text": "1. Quedar�n excluidas de la condici�n de refugiados:\na) las personas que est�n comprendidas en el �mbito de aplicaci�n de la secci�n D del art�culo 1 de la Convenci�n de Ginebra en lo relativo a la protecci�n o asistencia de un �rgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados. Cuando esta protecci�n o asistencia haya cesado por cualquier motivo, sin que la suerte de tales personas se haya solucionado definitivamente con arreglo a las Resoluciones aprobadas sobre el particular por la Asamblea General de las Naciones Unidas, aqu�llas tendr�n, �ipso facto�, derecho a los beneficios del asilo regulado en la presente Ley;\nb) las personas a quienes las autoridades competentes del pa�s donde hayan fijado su residencia les hayan reconocido los derechos y obligaciones que son inherentes a la posesi�n de la nacionalidad de tal pa�s, o derechos y obligaciones equivalentes a ellos.\n2. Tambi�n quedar�n excluidas las personas extranjeras sobre las que existan motivos fundados para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del pa�s de refugio antes de ser admitidas como refugiadas, es decir, antes de la expedici�n de una autorizaci�n de residencia basada en el reconocimiento de la condici�n de refugiado, un delito grave, entendi�ndose por tal los que lo sean conforme al C�digo Penal espa�ol y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidaci�n en las personas, as� como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el t�rmino delincuencia organizada la recogida en el apartado cuarto del art�culo 282 bis de la Ley de Enjuiciamiento Criminal, en relaci�n con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Pre�mbulo y en los art�culos 1 y 2 de la Carta de las Naciones Unidas.",
-                  "answer_start": 33,
-                  "answer_end": 2269,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 8. Causas de exclusi�n.\n1. Quedar�n excluidas de la condici�n de refugiados:\na) las personas que est�n comprendidas en el �mbito de aplicaci�n de la secci�n D del art�culo 1 de la Convenci�n de Ginebra en lo relativo a la protecci�n o asistencia de un �rgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados. Cuando esta protecci�n o asistencia haya cesado por cualquier motivo, sin que la suerte de tales personas se haya solucionado definitivamente con arreglo a las Resoluciones aprobadas sobre el particular por la Asamblea General de las Naciones Unidas, aqu�llas tendr�n, �ipso facto�, derecho a los beneficios del asilo regulado en la presente Ley;\nb) las personas a quienes las autoridades competentes del pa�s donde hayan fijado su residencia les hayan reconocido los derechos y obligaciones que son inherentes a la posesi�n de la nacionalidad de tal pa�s, o derechos y obligaciones equivalentes a ellos.\n2. Tambi�n quedar�n excluidas las personas extranjeras sobre las que existan motivos fundados para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del pa�s de refugio antes de ser admitidas como refugiadas, es decir, antes de la expedici�n de una autorizaci�n de residencia basada en el reconocimiento de la condici�n de refugiado, un delito grave, entendi�ndose por tal los que lo sean conforme al C�digo Penal espa�ol y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidaci�n en las personas, as� como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el t�rmino delincuencia organizada la recogida en el apartado cuarto del art�culo 282 bis de la Ley de Enjuiciamiento Criminal, en relaci�n con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Pre�mbulo y en los art�culos 1 y 2 de la Carta de las Naciones Unidas.\n3. El apartado segundo se aplicar� a las personas que inciten a la comisi�n de los delitos o actos mencionados en �l, o bien participen en su comisi�n.",
-          "document_id": 1271115
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Quién se excluye de la protección subsidiaria?",
-              "id": 609655,
-              "answers": [
-                {
-                  "answer_id": 651487,
-                  "document_id": 1271119,
-                  "question_id": 609655,
-                  "text": "1. Quedar�n excluidas de la condici�n de beneficiarias de la protecci�n subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del pa�s de protecci�n antes de ser admitidas como beneficiarias de la protecci�n subsidiaria, es decir, antes de la expedici�n de la autorizaci�n de residencia basada en el reconocimiento de la condici�n de beneficiario de protecci�n subsidiaria, un delito grave, entendi�ndose por tal los que lo sean conforme al C�digo Penal espa�ol y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidaci�n en las personas, as� como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el t�rmino delincuencia organizada la recogida en el apartado cuarto del art�culo 282 bis de la Ley de Enjuiciamiento Criminal, en relaci�n con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Pre�mbulo y en los art�culos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de Espa�a o para el orden p�blico.\n2. Lo dispuesto en los apartados anteriores se aplicar� a quienes inciten a la comisi�n de los delitos o actos mencionados en los mismos, o bien participen en su comisi�n.",
-                  "answer_start": 34,
-                  "answer_end": 1708,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué personas quedan excluidas de la protección subsidiaria?",
-              "id": 609656,
-              "answers": [
-                {
-                  "answer_id": 651488,
-                  "document_id": 1271119,
-                  "question_id": 609656,
-                  "text": "1. Quedar�n excluidas de la condici�n de beneficiarias de la protecci�n subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del pa�s de protecci�n antes de ser admitidas como beneficiarias de la protecci�n subsidiaria, es decir, antes de la expedici�n de la autorizaci�n de residencia basada en el reconocimiento de la condici�n de beneficiario de protecci�n subsidiaria, un delito grave, entendi�ndose por tal los que lo sean conforme al C�digo Penal espa�ol y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidaci�n en las personas, as� como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el t�rmino delincuencia organizada la recogida en el apartado cuarto del art�culo 282 bis de la Ley de Enjuiciamiento Criminal, en relaci�n con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Pre�mbulo y en los art�culos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de Espa�a o para el orden p�blico.\n2. Lo dispuesto en los apartados anteriores se aplicar� a quienes inciten a la comisi�n de los delitos o actos mencionados en los mismos, o bien participen en su comisi�n.",
-                  "answer_start": 34,
-                  "answer_end": 1708,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 11. Causas de exclusi�n.\n1. Quedar�n excluidas de la condici�n de beneficiarias de la protecci�n subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del pa�s de protecci�n antes de ser admitidas como beneficiarias de la protecci�n subsidiaria, es decir, antes de la expedici�n de la autorizaci�n de residencia basada en el reconocimiento de la condici�n de beneficiario de protecci�n subsidiaria, un delito grave, entendi�ndose por tal los que lo sean conforme al C�digo Penal espa�ol y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidaci�n en las personas, as� como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el t�rmino delincuencia organizada la recogida en el apartado cuarto del art�culo 282 bis de la Ley de Enjuiciamiento Criminal, en relaci�n con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Pre�mbulo y en los art�culos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de Espa�a o para el orden p�blico.\n2. Lo dispuesto en los apartados anteriores se aplicar� a quienes inciten a la comisi�n de los delitos o actos mencionados en los mismos, o bien participen en su comisi�n.",
-          "document_id": 1271119
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "Para solicitar derecho de asilo, ¿los actos a presentar pueden haberse dado recientemente?",
-              "id": 609660,
-              "answers": [
-                {
-                  "answer_id": 651492,
-                  "document_id": 1271121,
-                  "question_id": 609660,
-                  "text": "pueden asimismo basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del pa�s de origen o, en el caso de ap�tridas, el de residencia habitual",
-                  "answer_start": 225,
-                  "answer_end": 441,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Los actos deben haber sucedido en el país de origen?",
-              "id": 610066,
-              "answers": [
-                {
-                  "answer_id": 652173,
-                  "document_id": 1271121,
-                  "question_id": 610066,
-                  "text": "pueden asimismo basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del pa�s de origen o, en el caso de ap�tridas, el de residencia habitual",
-                  "answer_start": 225,
-                  "answer_end": 441,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 15. Necesidades de protecci�n internacional surgidas �in situ�.\n1. Los fundados temores de ser perseguido o el riesgo real de sufrir da�os graves a que se refieren, respectivamente, los art�culos 6 y 10 de esta Ley, pueden asimismo basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del pa�s de origen o, en el caso de ap�tridas, el de residencia habitual, en especial si se demuestra que dichos acontecimientos o actividades constituyen la expresi�n de convicciones u orientaciones mantenidas en el pa�s de origen o de residencia habitual.\n2. En estos supuestos, se ponderar�, a efectos de no reconocer la condici�n de refugiado, el hecho de que el riesgo de persecuci�n est� basado en circunstancias expresamente creadas por la persona solicitante tras abandonar su pa�s de origen o, en el caso de ap�tridas, el de su residencia habitual.",
-          "document_id": 1271121
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Quién puede proporcionar la protección?",
-              "id": 609658,
-              "answers": [
-                {
-                  "answer_id": 651490,
-                  "document_id": 1271120,
-                  "question_id": 609658,
-                  "text": "1. Podr�n proporcionar protecci�n:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
+                  "answer_id": 662909,
+                  "document_id": 1288139,
+                  "question_id": 618651,
+                  "text": "1. Podrán proporcionar protección:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
                   "answer_start": 36,
                   "answer_end": 233,
                   "answer_category": null
@@ -1435,14 +855,62 @@
               "is_impossible": false
             },
             {
-              "question": "Cuáles son las organizaciones que brindan protección",
-              "id": 609657,
+              "question": "Qué organizaciones dan protección",
+              "id": 618652,
               "answers": [
                 {
-                  "answer_id": 651489,
-                  "document_id": 1271120,
-                  "question_id": 609657,
-                  "text": "1. Podr�n proporcionar protecci�n:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
+                  "answer_id": 662910,
+                  "document_id": 1288139,
+                  "question_id": 618652,
+                  "text": "1. Podrán proporcionar protección:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
+                  "answer_start": 36,
+                  "answer_end": 233,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "A qué entidades puedo solicitar protección",
+              "id": 618653,
+              "answers": [
+                {
+                  "answer_id": 662911,
+                  "document_id": 1288139,
+                  "question_id": 618653,
+                  "text": "1. Podrán proporcionar protección:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
+                  "answer_start": 36,
+                  "answer_end": 233,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Dónde puedo acudir para solicitar protección",
+              "id": 618654,
+              "answers": [
+                {
+                  "answer_id": 662912,
+                  "document_id": 1288139,
+                  "question_id": 618654,
+                  "text": "1. Podrán proporcionar protección:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
+                  "answer_start": 36,
+                  "answer_end": 233,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Quién puede proporcionar la protección?",
+              "id": 618655,
+              "answers": [
+                {
+                  "answer_id": 662913,
+                  "document_id": 1288139,
+                  "question_id": 618655,
+                  "text": "1. Podrán proporcionar protección:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.",
                   "answer_start": 36,
                   "answer_end": 233,
                   "answer_category": null
@@ -1452,13 +920,13 @@
             },
             {
               "question": "¿Qué se entiende por protección?",
-              "id": 609659,
+              "id": 618656,
               "answers": [
                 {
-                  "answer_id": 651491,
-                  "document_id": 1271120,
-                  "question_id": 609659,
-                  "text": "se entender� que existe protecci�n cuando los agentes mencionados en el apartado primero adopten medidas razonables y efectivas para impedir la persecuci�n o el padecimiento de da�os graves, tales como el establecimiento de un sistema jur�dico eficaz para la investigaci�n, el procesamiento y la sanci�n de acciones constitutivas de persecuci�n o de da�os graves, y siempre que el solicitante tenga acceso efectivo a dicha protecci�n.",
+                  "answer_id": 662914,
+                  "document_id": 1288139,
+                  "question_id": 618656,
+                  "text": "se entenderá que existe protección cuando los agentes mencionados en el apartado primero adopten medidas razonables y efectivas para impedir la persecución o el padecimiento de daños graves, tales como el establecimiento de un sistema jurídico eficaz para la investigación, el procesamiento y la sanción de acciones constitutivas de persecución o de daños graves, y siempre que el solicitante tenga acceso efectivo a dicha protección.",
                   "answer_start": 249,
                   "answer_end": 683,
                   "answer_category": null
@@ -1467,8 +935,8 @@
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 14. Agentes de protecci�n.\n1. Podr�n proporcionar protecci�n:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.\n2. En general, se entender� que existe protecci�n cuando los agentes mencionados en el apartado primero adopten medidas razonables y efectivas para impedir la persecuci�n o el padecimiento de da�os graves, tales como el establecimiento de un sistema jur�dico eficaz para la investigaci�n, el procesamiento y la sanci�n de acciones constitutivas de persecuci�n o de da�os graves, y siempre que el solicitante tenga acceso efectivo a dicha protecci�n.\n3. Se tendr� en cuenta la orientaci�n que pueda desprenderse de los actos pertinentes de las instituciones de la Uni�n Europea o de organizaciones internacionales relevantes, al efecto de valorar si una organizaci�n internacional controla un Estado o una parte considerable de su territorio y proporciona la protecci�n descrita en el apartado anterior.\n",
-          "document_id": 1271120
+          "context": "Artículo 14. Agentes de protección.\n1. Podrán proporcionar protección:\na) el Estado, o\nb) los partidos u organizaciones, incluidas las organizaciones internacionales, que controlen el Estado o una parte considerable de su territorio.\n2. En general, se entenderá que existe protección cuando los agentes mencionados en el apartado primero adopten medidas razonables y efectivas para impedir la persecución o el padecimiento de daños graves, tales como el establecimiento de un sistema jurídico eficaz para la investigación, el procesamiento y la sanción de acciones constitutivas de persecución o de daños graves, y siempre que el solicitante tenga acceso efectivo a dicha protección.\n3. Se tendrá en cuenta la orientación que pueda desprenderse de los actos pertinentes de las instituciones de la Unión Europea o de organizaciones internacionales relevantes, al efecto de valorar si una organización internacional controla un Estado o una parte considerable de su territorio y proporciona la protección descrita en el apartado anterior.\n",
+          "document_id": 1288139
         }
       ]
     },
@@ -1478,13 +946,13 @@
           "qas": [
             {
               "question": "¿Quién puede solicitar protección internacional?",
-              "id": 610072,
+              "id": 618659,
               "answers": [
                 {
-                  "answer_id": 652179,
-                  "document_id": 1271123,
-                  "question_id": 610072,
-                  "text": "Las personas nacionales no comunitarias y las ap�tridas presentes en territorio espa�ol tienen derecho a solicitar protecci�n internacional en Espa�a.",
+                  "answer_id": 662922,
+                  "document_id": 1288141,
+                  "question_id": 618659,
+                  "text": "Las personas nacionales no comunitarias y las apátridas presentes en territorio español tienen derecho a solicitar protección internacional en España.",
                   "answer_start": 62,
                   "answer_end": 212,
                   "answer_category": null
@@ -1494,14 +962,14 @@
             },
             {
               "question": "¿A qué tienen derecho los solicitantes de protección internacional?",
-              "id": 610074,
+              "id": 618660,
               "answers": [
                 {
-                  "answer_id": 652181,
-                  "document_id": 1271123,
-                  "question_id": 610074,
-                  "text": "los solicitantes de protecci�n internacional tendr�n derecho a asistencia sanitaria y a asistencia jur�dica gratuita, que se extender� a la formalizaci�n de la solicitud y a toda la tramitaci�n del procedimiento, y que se prestar� en los t�rminos previstos en la legislaci�n espa�ola en esta materia, as� como derecho a int�rprete en los t�rminos del art�culo 22 de la Ley Org�nica 4/2000",
-                  "answer_start": 235,
+                  "answer_id": 662923,
+                  "document_id": 1288141,
+                  "question_id": 618660,
+                  "text": " los solicitantes de protección internacional tendrán derecho a asistencia sanitaria y a asistencia jurídica gratuita, que se extenderá a la formalización de la solicitud y a toda la tramitación del procedimiento, y que se prestará en los términos previstos en la legislación española en esta materia, así como derecho a intérprete en los términos del artículo 22 de la Ley Orgánica 4/2000",
+                  "answer_start": 234,
                   "answer_end": 623,
                   "answer_category": null
                 }
@@ -1510,181 +978,23 @@
             },
             {
               "question": "¿Puedo solicitar la protección internacional de forma confidencial?",
-              "id": 610077,
+              "id": 618661,
               "answers": [
                 {
-                  "answer_id": 652184,
-                  "document_id": 1271123,
-                  "question_id": 610077,
-                  "text": " Toda informaci�n relativa al procedimiento, incluido el hecho de la presentaci�n de la solicitud, tendr� car�cter confidencial",
-                  "answer_start": 1071,
-                  "answer_end": 1198,
+                  "answer_id": 662924,
+                  "document_id": 1288141,
+                  "question_id": 618661,
+                  "text": "Toda información relativa al procedimiento, incluido el hecho de la presentación de la solicitud, tendrá carácter confidencial.",
+                  "answer_start": 1072,
+                  "answer_end": 1199,
                   "answer_category": null
                 }
               ],
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 16. Derecho a solicitar protecci�n internacional.\n1. Las personas nacionales no comunitarias y las ap�tridas presentes en territorio espa�ol tienen derecho a solicitar protecci�n internacional en Espa�a.\n2. Para su ejercicio, los solicitantes de protecci�n internacional tendr�n derecho a asistencia sanitaria y a asistencia jur�dica gratuita, que se extender� a la formalizaci�n de la solicitud y a toda la tramitaci�n del procedimiento, y que se prestar� en los t�rminos previstos en la legislaci�n espa�ola en esta materia, as� como derecho a int�rprete en los t�rminos del art�culo 22 de la Ley Org�nica 4/2000.\nLa asistencia jur�dica referida en el p�rrafo anterior ser� preceptiva cuando las solicitudes se formalicen de acuerdo al procedimiento se�alado en el art�culo 21 de la presente Ley.\n3. La presentaci�n de la solicitud conllevar� la valoraci�n de las circunstancias determinantes del reconocimiento de la condici�n de refugiado, as� como de la concesi�n de la protecci�n subsidiaria. De este extremo se informar� en debida forma al solicitante.\n4. Toda informaci�n relativa al procedimiento, incluido el hecho de la presentaci�n de la solicitud, tendr� car�cter confidencial.",
-          "document_id": 1271123
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Por parte de quien pueden haberse ejercido los daños?",
-              "id": 609662,
-              "answers": [
-                {
-                  "answer_id": 651493,
-                  "document_id": 1271122,
-                  "question_id": 609662,
-                  "text": "Los agentes de persecuci�n o causantes de da�os graves podr�n ser, entre otros:\na) el Estado;\nb) los partidos u organizaciones que controlen el Estado o una parte considerable de su territorio;\nc) agentes no estatales, cuando los agentes mencionados en los puntos anteriores, incluidas las organizaciones internacionales, no puedan o no quieran proporcionar protecci�n efectiva contra la persecuci�n o los da�os graves.",
-                  "answer_start": 65,
-                  "answer_end": 484,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 13. Agentes de persecuci�n o causantes de da�os graves.\nLos agentes de persecuci�n o causantes de da�os graves podr�n ser, entre otros:\na) el Estado;\nb) los partidos u organizaciones que controlen el Estado o una parte considerable de su territorio;\nc) agentes no estatales, cuando los agentes mencionados en los puntos anteriores, incluidas las organizaciones internacionales, no puedan o no quieran proporcionar protecci�n efectiva contra la persecuci�n o los da�os graves.",
-          "document_id": 1271122
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Tengo derecho a abogado?",
-              "id": 610101,
-              "answers": [
-                {
-                  "answer_id": 652206,
-                  "document_id": 1271126,
-                  "question_id": 610101,
-                  "text": "Las personas solicitantes de asilo tienen derecho a entrevistarse con un abogado en las dependencias de los puestos fronterizos y centros de internamiento de extranjeros",
-                  "answer_start": 1107,
-                  "answer_end": 1276,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Se me puede extraditar en el plazo de la solicitud?",
-              "id": 610100,
-              "answers": [
-                {
-                  "answer_id": 652205,
-                  "document_id": 1271126,
-                  "question_id": 610100,
-                  "text": "podr� entregarse o extraditarse a una persona solicitante, seg�n proceda, a otro Estado miembro de la Uni�n Europea en virtud de las obligaciones dimanantes de una orden europea de detenci�n y entrega, o a un pa�s tercero ante �rganos judiciales penales internacionales.",
-                  "answer_start": 833,
-                  "answer_end": 1103,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 19. Efectos de la presentaci�n de la solicitud.\n1. Solicitada la protecci�n, la persona extranjera no podr� ser objeto de retorno, devoluci�n o expulsi�n hasta que se resuelva sobre su solicitud o �sta no sea admitida. No obstante, por motivos de salud o seguridad p�blicas, la autoridad competente podr� adoptar medidas cautelares en aplicaci�n de la normativa vigente en materia de extranjer�a e inmigraci�n.\n2. Asimismo, la solicitud de protecci�n suspender�, hasta la decisi�n definitiva, la ejecuci�n del fallo de cualquier proceso de extradici�n de la persona interesada que se halle pendiente. A tal fin, la solicitud ser� comunicada inmediatamente al �rgano judicial o al �rgano gubernativo ante el que en ese momento tuviera lugar el correspondiente proceso.\n3. No obstante lo previsto en los apartados anteriores, podr� entregarse o extraditarse a una persona solicitante, seg�n proceda, a otro Estado miembro de la Uni�n Europea en virtud de las obligaciones dimanantes de una orden europea de detenci�n y entrega, o a un pa�s tercero ante �rganos judiciales penales internacionales.\n4. Las personas solicitantes de asilo tienen derecho a entrevistarse con un abogado en las dependencias de los puestos fronterizos y centros de internamiento de extranjeros. Reglamentariamente, y sin perjuicio de las normas de funcionamiento establecidas para las citadas dependencias y centros, podr�n establecerse condiciones para el ejercicio de este derecho derivadas de razones de seguridad, orden p�blico o de su gesti�n administrativa.\n5. La solicitud de protecci�n dar� lugar al inicio del c�mputo de los plazos previstos para su tramitaci�n.\n6. La resoluci�n que admita a tr�mite una solicitud de asilo determinar� el procedimiento correspondiente.\n7. En caso de que la tramitaci�n de una solicitud pudiese exceder de seis meses, ampliables de acuerdo con lo previsto en el art�culo 49 de la Ley 30/1992, de 26 de noviembre, de R�gimen Jur�dico de las Administraciones P�blicas y del Procedimiento Administrativo Com�n, para su resoluci�n y notificaci�n, se informar� a la persona interesada del motivo de la demora.",
-          "document_id": 1271126
-        }
-      ]
-    },
-    {
-      "paragraphs": [
-        {
-          "qas": [
-            {
-              "question": "¿Cómo empezar el proceso?",
-              "id": 610089,
-              "answers": [
-                {
-                  "answer_id": 652194,
-                  "document_id": 1271124,
-                  "question_id": 610089,
-                  "text": "1. El procedimiento se inicia con la presentaci�n de la solicitud, que deber� efectuarse mediante comparecencia personal de los interesados que soliciten protecci�n en los lugares que reglamentariamente se establezcan, o en caso de imposibilidad f�sica o legal, mediante persona que lo represente. En este �ltimo caso, el solicitante deber� ratificar la petici�n una vez desaparezca el impedimento.",
-                  "answer_start": 43,
-                  "answer_end": 441,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Qué plazo tengo para solicitar protección?",
-              "id": 610080,
-              "answers": [
-                {
-                  "answer_id": 652187,
-                  "document_id": 1271124,
-                  "question_id": 610080,
-                  "text": "La comparecencia deber� realizarse sin demora y en todo caso en el plazo m�ximo de un mes desde la entrada en el territorio espa�ol o, en todo caso, desde que se produzcan los acontecimientos que justifiquen el temor fundado de persecuci�n o da�os graves",
-                  "answer_start": 445,
-                  "answer_end": 699,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Puedo ser sancionada si estoy a la espera de resolución?",
-              "id": 610081,
-              "answers": [
-                {
-                  "answer_id": 652188,
-                  "document_id": 1271124,
-                  "question_id": 610081,
-                  "text": "la entrada ilegal en territorio espa�ol no podr� ser sancionada cuando haya sido realizada por persona que re�na los requisitos para ser beneficiaria de la protecci�n internacional prevista en esta Ley.",
-                  "answer_start": 718,
-                  "answer_end": 920,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Cómo se inicia el proceso?",
-              "id": 610088,
-              "answers": [
-                {
-                  "answer_id": 652193,
-                  "document_id": 1271124,
-                  "question_id": 610088,
-                  "text": "1. El procedimiento se inicia con la presentaci�n de la solicitud, que deber� efectuarse mediante comparecencia personal de los interesados que soliciten protecci�n en los lugares que reglamentariamente se establezcan, o en caso de imposibilidad f�sica o legal, mediante persona que lo represente. En este �ltimo caso, el solicitante deber� ratificar la petici�n una vez desaparezca el impedimento.",
-                  "answer_start": 43,
-                  "answer_end": 441,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            },
-            {
-              "question": "¿Podré entender el proceso de solicitud, independientemente de mi idioma?",
-              "id": 610091,
-              "answers": [
-                {
-                  "answer_id": 652196,
-                  "document_id": 1271124,
-                  "question_id": 610091,
-                  "text": "3. En el momento de efectuar la solicitud, la persona extranjera ser� informada, en una lengua que pueda comprender,",
-                  "answer_start": 921,
-                  "answer_end": 1037,
-                  "answer_category": null
-                }
-              ],
-              "is_impossible": false
-            }
-          ],
-          "context": "Art�culo 17. Presentaci�n de la solicitud.\n1. El procedimiento se inicia con la presentaci�n de la solicitud, que deber� efectuarse mediante comparecencia personal de los interesados que soliciten protecci�n en los lugares que reglamentariamente se establezcan, o en caso de imposibilidad f�sica o legal, mediante persona que lo represente. En este �ltimo caso, el solicitante deber� ratificar la petici�n una vez desaparezca el impedimento.\n2. La comparecencia deber� realizarse sin demora y en todo caso en el plazo m�ximo de un mes desde la entrada en el territorio espa�ol o, en todo caso, desde que se produzcan los acontecimientos que justifiquen el temor fundado de persecuci�n o da�os graves. A estos efectos, la entrada ilegal en territorio espa�ol no podr� ser sancionada cuando haya sido realizada por persona que re�na los requisitos para ser beneficiaria de la protecci�n internacional prevista en esta Ley.\n3. En el momento de efectuar la solicitud, la persona extranjera ser� informada, en una lengua que pueda comprender, acerca de:\na) el procedimiento que debe seguirse;\nb) sus derechos y obligaciones durante la tramitaci�n, en especial en materia de plazos y medios de que dispone para cumplir �stas;\nc) la posibilidad de contactar con el Alto Comisionado de las Naciones Unidas para los Refugiados y con las Organizaciones no Gubernamentales legalmente reconocidas entre cuyos objetivos figure el asesoramiento y ayuda a las personas necesitadas de protecci�n internacional;\nd) las posibles consecuencias del incumplimiento de sus obligaciones o de su falta de colaboraci�n con las autoridades; y\ne) los derechos y prestaciones sociales a los que tiene acceso en su condici�n de solicitante de protecci�n internacional.\n4. La solicitud se formalizar� mediante entrevista personal que se realizar� siempre individualmente. De forma excepcional, podr� requerirse la presencia de otros miembros de la familia de los solicitantes, si ello se considerase imprescindible para la adecuada formalizaci�n de la solicitud.\n5. La Administraci�n adoptar� las medidas necesarias para que, cuando sea preciso, en la entrevista se preste un tratamiento diferenciado por raz�n del sexo de la persona solicitante o dem�s circunstancias previstas en el art�culo 46 de esta Ley. De este tr�mite se dejar� debida constancia en el expediente administrativo.\n6. Las personas encargadas de efectuar la entrevista informar�n a los solicitantes sobre c�mo efectuar la solicitud, y les ayudar�n a cumplimentarla, facilit�ndoles la informaci�n b�sica en relaci�n con aqu�lla. Asimismo, colaborar�n con los interesados para establecer los hechos relevantes de su solicitud.\n7. Cuando razones de seguridad lo aconsejen, se podr� registrar a la persona solicitante y sus pertenencias, siempre y cuando se garantice el pleno respeto a su dignidad e integridad.\n8. En los t�rminos que se establezcan reglamentariamente, se plantear� la posibilidad de una nueva audiencia personal sobre su solicitud de asilo. La ponderaci�n sobre la necesidad o no de efectuar nuevas entrevistas ser� motivada.",
-          "document_id": 1271124
+          "context": "Artículo 16. Derecho a solicitar protección internacional.\n1. Las personas nacionales no comunitarias y las apátridas presentes en territorio español tienen derecho a solicitar protección internacional en España.\n2. Para su ejercicio, los solicitantes de protección internacional tendrán derecho a asistencia sanitaria y a asistencia jurídica gratuita, que se extenderá a la formalización de la solicitud y a toda la tramitación del procedimiento, y que se prestará en los términos previstos en la legislación española en esta materia, así como derecho a intérprete en los términos del artículo 22 de la Ley Orgánica 4/2000.\nLa asistencia jurídica referida en el párrafo anterior será preceptiva cuando las solicitudes se formalicen de acuerdo al procedimiento señalado en el artículo 21 de la presente Ley.\n3. La presentación de la solicitud conllevará la valoración de las circunstancias determinantes del reconocimiento de la condición de refugiado, así como de la concesión de la protección subsidiaria. De este extremo se informará en debida forma al solicitante.\n4. Toda información relativa al procedimiento, incluido el hecho de la presentación de la solicitud, tendrá carácter confidencial.",
+          "document_id": 1288141
         }
       ]
     },
@@ -1694,13 +1004,13 @@
           "qas": [
             {
               "question": "¿Qué derechos tiene el solicitante de asilo?",
-              "id": 610093,
+              "id": 618668,
               "answers": [
                 {
-                  "answer_id": 652198,
-                  "document_id": 1271125,
-                  "question_id": 610093,
-                  "text": "1. El solicitante de asilo, presentada la solicitud, tiene en los t�rminos recogidos en la presente Ley, en los art�culos 16, 17, 19, 33 y 34, los siguientes derechos:\na) a ser documentado como solicitante de protecci�n internacional;\nb) a asistencia jur�dica gratuita e int�rprete;\nc) a que se comunique su solicitud al ACNUR;\nd) a la suspensi�n de cualquier proceso de devoluci�n, expulsi�n o extradici�n que pudiera afectar al solicitante;\ne) a conocer el contenido del expediente en cualquier momento;\nf) a la atenci�n sanitaria en las condiciones expuestas;\ng) a recibir prestaciones sociales espec�ficas en los t�rminos que se recogen en esta Ley.",
+                  "answer_id": 662931,
+                  "document_id": 1288143,
+                  "question_id": 618668,
+                  "text": "1. El solicitante de asilo, presentada la solicitud, tiene en los términos recogidos en la presente Ley, en los artículos 16, 17, 19, 33 y 34, los siguientes derechos:\na) a ser documentado como solicitante de protección internacional;\nb) a asistencia jurídica gratuita e intérprete;\nc) a que se comunique su solicitud al ACNUR;\nd) a la suspensión de cualquier proceso de devolución, expulsión o extradición que pudiera afectar al solicitante;\ne) a conocer el contenido del expediente en cualquier momento;\nf) a la atención sanitaria en las condiciones expuestas;\ng) a recibir prestaciones sociales específicas en los términos que se recogen en esta Ley.",
                   "answer_start": 58,
                   "answer_end": 711,
                   "answer_category": null
@@ -1710,13 +1020,13 @@
             },
             {
               "question": "¿Qué obligaciones tiene el solicitante de protección internacional?",
-              "id": 610094,
+              "id": 618669,
               "answers": [
                 {
-                  "answer_id": 652199,
-                  "document_id": 1271125,
-                  "question_id": 610094,
-                  "text": "2. Ser�n obligaciones de los solicitantes de protecci�n internacional las siguientes:\na) cooperar con las autoridades espa�olas en el procedimiento para la concesi�n de protecci�n internacional;\nb) presentar, lo antes posible, todos aquellos elementos que, junto a su propia declaraci�n, contribuyan a fundamentar su solicitud. Entre otros, podr�n presentar la documentaci�n de que dispongan sobre su edad, pasado �incluido el de parientes relacionados�, identidad, nacionalidad o nacionalidades, lugares de anterior residencia, solicitudes de protecci�n internacional previas, itinerarios de viaje, documentos de viaje y motivos por los que solicita la protecci�n;\nc) proporcionar sus impresiones dactilares, permitir ser fotografiados y, en su caso, consentir que sean grabadas sus declaraciones, siempre que hayan sido previamente informados sobre este �ltimo extremo;\nd) informar sobre su domicilio en Espa�a y cualquier cambio que se produzca en �l;\ne) informar, asimismo, a la autoridad competente o comparecer ante ella, cuando as� se les requiera con relaci�n a cualquier circunstancia de su solicitud.",
+                  "answer_id": 662932,
+                  "document_id": 1288143,
+                  "question_id": 618669,
+                  "text": "2. Serán obligaciones de los solicitantes de protección internacional las siguientes:\na) cooperar con las autoridades españolas en el procedimiento para la concesión de protección internacional;\nb) presentar, lo antes posible, todos aquellos elementos que, junto a su propia declaración, contribuyan a fundamentar su solicitud. Entre otros, podrán presentar la documentación de que dispongan sobre su edad, pasado –incluido el de parientes relacionados–, identidad, nacionalidad o nacionalidades, lugares de anterior residencia, solicitudes de protección internacional previas, itinerarios de viaje, documentos de viaje y motivos por los que solicita la protección;\nc) proporcionar sus impresiones dactilares, permitir ser fotografiados y, en su caso, consentir que sean grabadas sus declaraciones, siempre que hayan sido previamente informados sobre este último extremo;\nd) informar sobre su domicilio en España y cualquier cambio que se produzca en él;\ne) informar, asimismo, a la autoridad competente o comparecer ante ella, cuando así se les requiera con relación a cualquier circunstancia de su solicitud.",
                   "answer_start": 712,
                   "answer_end": 1822,
                   "answer_category": null
@@ -1725,8 +1035,8 @@
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 18. Derechos y obligaciones de los solicitantes.\n1. El solicitante de asilo, presentada la solicitud, tiene en los t�rminos recogidos en la presente Ley, en los art�culos 16, 17, 19, 33 y 34, los siguientes derechos:\na) a ser documentado como solicitante de protecci�n internacional;\nb) a asistencia jur�dica gratuita e int�rprete;\nc) a que se comunique su solicitud al ACNUR;\nd) a la suspensi�n de cualquier proceso de devoluci�n, expulsi�n o extradici�n que pudiera afectar al solicitante;\ne) a conocer el contenido del expediente en cualquier momento;\nf) a la atenci�n sanitaria en las condiciones expuestas;\ng) a recibir prestaciones sociales espec�ficas en los t�rminos que se recogen en esta Ley.\n2. Ser�n obligaciones de los solicitantes de protecci�n internacional las siguientes:\na) cooperar con las autoridades espa�olas en el procedimiento para la concesi�n de protecci�n internacional;\nb) presentar, lo antes posible, todos aquellos elementos que, junto a su propia declaraci�n, contribuyan a fundamentar su solicitud. Entre otros, podr�n presentar la documentaci�n de que dispongan sobre su edad, pasado �incluido el de parientes relacionados�, identidad, nacionalidad o nacionalidades, lugares de anterior residencia, solicitudes de protecci�n internacional previas, itinerarios de viaje, documentos de viaje y motivos por los que solicita la protecci�n;\nc) proporcionar sus impresiones dactilares, permitir ser fotografiados y, en su caso, consentir que sean grabadas sus declaraciones, siempre que hayan sido previamente informados sobre este �ltimo extremo;\nd) informar sobre su domicilio en Espa�a y cualquier cambio que se produzca en �l;\ne) informar, asimismo, a la autoridad competente o comparecer ante ella, cuando as� se les requiera con relaci�n a cualquier circunstancia de su solicitud.",
-          "document_id": 1271125
+          "context": "Artículo 18. Derechos y obligaciones de los solicitantes.\n1. El solicitante de asilo, presentada la solicitud, tiene en los términos recogidos en la presente Ley, en los artículos 16, 17, 19, 33 y 34, los siguientes derechos:\na) a ser documentado como solicitante de protección internacional;\nb) a asistencia jurídica gratuita e intérprete;\nc) a que se comunique su solicitud al ACNUR;\nd) a la suspensión de cualquier proceso de devolución, expulsión o extradición que pudiera afectar al solicitante;\ne) a conocer el contenido del expediente en cualquier momento;\nf) a la atención sanitaria en las condiciones expuestas;\ng) a recibir prestaciones sociales específicas en los términos que se recogen en esta Ley.\n2. Serán obligaciones de los solicitantes de protección internacional las siguientes:\na) cooperar con las autoridades españolas en el procedimiento para la concesión de protección internacional;\nb) presentar, lo antes posible, todos aquellos elementos que, junto a su propia declaración, contribuyan a fundamentar su solicitud. Entre otros, podrán presentar la documentación de que dispongan sobre su edad, pasado –incluido el de parientes relacionados–, identidad, nacionalidad o nacionalidades, lugares de anterior residencia, solicitudes de protección internacional previas, itinerarios de viaje, documentos de viaje y motivos por los que solicita la protección;\nc) proporcionar sus impresiones dactilares, permitir ser fotografiados y, en su caso, consentir que sean grabadas sus declaraciones, siempre que hayan sido previamente informados sobre este último extremo;\nd) informar sobre su domicilio en España y cualquier cambio que se produzca en él;\ne) informar, asimismo, a la autoridad competente o comparecer ante ella, cuando así se les requiera con relación a cualquier circunstancia de su solicitud.",
+          "document_id": 1288143
         }
       ]
     },
@@ -1736,13 +1046,13 @@
           "qas": [
             {
               "question": "¿Qué supone la no admisión a trámite?",
-              "id": 610106,
+              "id": 618724,
               "answers": [
                 {
-                  "answer_id": 652211,
-                  "document_id": 1271129,
-                  "question_id": 610106,
-                  "text": "La no admisi�n a tr�mite conllevar� los mismos efectos que la denegaci�n de la solicitud.",
+                  "answer_id": 662988,
+                  "document_id": 1288145,
+                  "question_id": 618724,
+                  "text": "La no admisión a trámite conllevará los mismos efectos que la denegación de la solicitud.",
                   "answer_start": 4002,
                   "answer_end": 4091,
                   "answer_category": null
@@ -1752,13 +1062,13 @@
             },
             {
               "question": "¿Puede no admitirse a trámite mi petición?",
-              "id": 610108,
+              "id": 618725,
               "answers": [
                 {
-                  "answer_id": 652213,
-                  "document_id": 1271129,
-                  "question_id": 610108,
-                  "text": "El Ministro del Interior, a propuesta de la Oficina de Asilo y Refugio, podr�, mediante resoluci�n motivada, no admitir a tr�mite las solicitudes",
+                  "answer_id": 662989,
+                  "document_id": 1288145,
+                  "question_id": 618725,
+                  "text": "El Ministro del Interior, a propuesta de la Oficina de Asilo y Refugio, podrá, mediante resolución motivada, no admitir a trámite las solicitudes",
                   "answer_start": 86,
                   "answer_end": 231,
                   "answer_category": null
@@ -1767,8 +1077,778 @@
               "is_impossible": false
             }
           ],
-          "context": "Art�culo 20. No admisi�n de solicitudes presentadas dentro del territorio espa�ol.\n1. El Ministro del Interior, a propuesta de la Oficina de Asilo y Refugio, podr�, mediante resoluci�n motivada, no admitir a tr�mite las solicitudes cuando concurra alguna de las circunstancias siguientes:\n� Por falta de competencia para el examen de las solicitudes:\na) cuando no corresponda a Espa�a su examen con arreglo al Reglamento (CE) 343/2003, del Consejo, de 18 de febrero, por el que se establecen los criterios y mecanismos de determinaci�n del Estado miembro responsable del examen de una solicitud de asilo presentada en uno de los Estados miembros por un nacional de un tercer pa�s;\nb) cuando no corresponda a Espa�a su examen de conformidad con los Convenios Internacionales en que sea Parte. En la resoluci�n por la que se acuerde la no admisi�n a tr�mite se indicar� a la persona solicitante el Estado responsable de examinarla. En este caso, dicho Estado habr� aceptado expl�citamente su responsabilidad y se obtendr�n garant�as suficientes de protecci�n para la vida, libertad e integridad f�sica de los interesados, as� como del respeto a los dem�s principios indicados en la Convenci�n de Ginebra, en el territorio de dicho Estado.\n� Por falta de requisitos:\nc) cuando, de conformidad con lo establecido en el art�culo 25.2.b) y en el art�culo 26 de la Directiva 2005/85/CE del Consejo, la persona solicitante se halle reconocida como refugiada y tenga derecho a residir o a obtener protecci�n internacional efectiva en un tercer Estado, siempre que sea readmitida en ese pa�s, no exista peligro para su vida o su libertad, ni est� expuesta a tortura o a trato inhumano o degradante y tenga protecci�n efectiva contra la devoluci�n al pa�s perseguidor, con arreglo a la Convenci�n de Ginebra;\nd) cuando la persona solicitante proceda de un tercer pa�s seguro, de conformidad con lo establecido en el art�culo 27 de la Directiva 2005/85/CE del Consejo y, en su caso con la lista que sea elaborada por la Uni�n Europea, donde, atendiendo a sus circunstancias particulares, reciba un trato en el que su vida, su integridad y su libertad no est�n amenazadas por raz�n de raza, religi�n, nacionalidad, pertenencia a grupo social u opini�n pol�tica, se respete el principio de no devoluci�n, as� como la prohibici�n de expulsi�n en caso de violaci�n del derecho a no ser sometido a torturas ni a tratos crueles, inhumanos o degradantes, exista la posibilidad de solicitar el estatuto de refugiado y, en caso de ser refugiado, a recibir protecci�n con arreglo a la Convenci�n de Ginebra; siempre que el solicitante sea readmitido en ese pa�s y existan v�nculos por los cuales ser�a razonable que el solicitante fuera a ese pa�s. Para la aplicaci�n del concepto de tercer pa�s seguro, tambi�n podr� requerirse la existencia de una relaci�n entre el solicitante de asilo y el tercer pa�s de que se trate por la que ser�a razonable que el solicitante fuera a ese pa�s;\ne) cuando la persona solicitante hubiese reiterado una solicitud ya denegada en Espa�a o presentado una nueva solicitud con otros datos personales, siempre que no se planteen nuevas circunstancias relevantes en cuanto a las condiciones particulares o a la situaci�n del pa�s de origen o de residencia habitual de la persona interesada;\nf) cuando la persona solicitante sea nacional de un Estado miembro de la Uni�n Europea, de conformidad con lo dispuesto en el Protocolo al Tratado Constitutivo de la Comunidad Europea sobre el derecho de asilo a nacionales de Estados miembros de la Uni�n Europea.\n2. La no admisi�n a tr�mite prevista en este art�culo deber� notificarse en el plazo m�ximo de un mes contado a partir de la presentaci�n de la solicitud. El transcurso de dicho plazo sin que se haya notificado la resoluci�n a la persona interesada determinar� la admisi�n a tr�mite de la solicitud y su permanencia provisional en territorio espa�ol, sin perjuicio de lo que pueda acordarse en la resoluci�n definitiva del procedimiento. La no admisi�n a tr�mite conllevar� los mismos efectos que la denegaci�n de la solicitud.\n3. La constataci�n, con posterioridad a la admisi�n a tr�mite de la solicitud de protecci�n internacional, de alguna de las circunstancias que hubiesen justificado su no admisi�n ser� causa de denegaci�n de aqu�lla.",
-          "document_id": 1271129
+          "context": "Artículo 20. No admisión de solicitudes presentadas dentro del territorio español.\n1. El Ministro del Interior, a propuesta de la Oficina de Asilo y Refugio, podrá, mediante resolución motivada, no admitir a trámite las solicitudes cuando concurra alguna de las circunstancias siguientes:\n– Por falta de competencia para el examen de las solicitudes:\na) cuando no corresponda a España su examen con arreglo al Reglamento (CE) 343/2003, del Consejo, de 18 de febrero, por el que se establecen los criterios y mecanismos de determinación del Estado miembro responsable del examen de una solicitud de asilo presentada en uno de los Estados miembros por un nacional de un tercer país;\nb) cuando no corresponda a España su examen de conformidad con los Convenios Internacionales en que sea Parte. En la resolución por la que se acuerde la no admisión a trámite se indicará a la persona solicitante el Estado responsable de examinarla. En este caso, dicho Estado habrá aceptado explícitamente su responsabilidad y se obtendrán garantías suficientes de protección para la vida, libertad e integridad física de los interesados, así como del respeto a los demás principios indicados en la Convención de Ginebra, en el territorio de dicho Estado.\n– Por falta de requisitos:\nc) cuando, de conformidad con lo establecido en el artículo 25.2.b) y en el artículo 26 de la Directiva 2005/85/CE del Consejo, la persona solicitante se halle reconocida como refugiada y tenga derecho a residir o a obtener protección internacional efectiva en un tercer Estado, siempre que sea readmitida en ese país, no exista peligro para su vida o su libertad, ni esté expuesta a tortura o a trato inhumano o degradante y tenga protección efectiva contra la devolución al país perseguidor, con arreglo a la Convención de Ginebra;\nd) cuando la persona solicitante proceda de un tercer país seguro, de conformidad con lo establecido en el artículo 27 de la Directiva 2005/85/CE del Consejo y, en su caso con la lista que sea elaborada por la Unión Europea, donde, atendiendo a sus circunstancias particulares, reciba un trato en el que su vida, su integridad y su libertad no estén amenazadas por razón de raza, religión, nacionalidad, pertenencia a grupo social u opinión política, se respete el principio de no devolución, así como la prohibición de expulsión en caso de violación del derecho a no ser sometido a torturas ni a tratos crueles, inhumanos o degradantes, exista la posibilidad de solicitar el estatuto de refugiado y, en caso de ser refugiado, a recibir protección con arreglo a la Convención de Ginebra; siempre que el solicitante sea readmitido en ese país y existan vínculos por los cuales sería razonable que el solicitante fuera a ese país. Para la aplicación del concepto de tercer país seguro, también podrá requerirse la existencia de una relación entre el solicitante de asilo y el tercer país de que se trate por la que sería razonable que el solicitante fuera a ese país;\ne) cuando la persona solicitante hubiese reiterado una solicitud ya denegada en España o presentado una nueva solicitud con otros datos personales, siempre que no se planteen nuevas circunstancias relevantes en cuanto a las condiciones particulares o a la situación del país de origen o de residencia habitual de la persona interesada;\nf) cuando la persona solicitante sea nacional de un Estado miembro de la Unión Europea, de conformidad con lo dispuesto en el Protocolo al Tratado Constitutivo de la Comunidad Europea sobre el derecho de asilo a nacionales de Estados miembros de la Unión Europea.\n2. La no admisión a trámite prevista en este artículo deberá notificarse en el plazo máximo de un mes contado a partir de la presentación de la solicitud. El transcurso de dicho plazo sin que se haya notificado la resolución a la persona interesada determinará la admisión a trámite de la solicitud y su permanencia provisional en territorio español, sin perjuicio de lo que pueda acordarse en la resolución definitiva del procedimiento. La no admisión a trámite conllevará los mismos efectos que la denegación de la solicitud.\n3. La constatación, con posterioridad a la admisión a trámite de la solicitud de protección internacional, de alguna de las circunstancias que hubiesen justificado su no admisión será causa de denegación de aquélla.",
+          "document_id": 1288145
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Qué es el derecho de asilo?",
+              "id": 618735,
+              "answers": [
+                {
+                  "answer_id": 662996,
+                  "document_id": 1288147,
+                  "question_id": 618735,
+                  "text": "El derecho de asilo es la protección dispensada a los nacionales no comunitarios o a los apátridas a quienes se reconozca la condición de refugiado en los términos definidos en el artículo 3 de esta Ley y en la Convención sobre el Estatuto de los Refugiados, hecha en Ginebra el 28 de julio de 1951, y su Protocolo, suscrito en Nueva York el 31 de enero de 1967.",
+                  "answer_start": 33,
+                  "answer_end": 395,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 2. El derecho de asilo.\nEl derecho de asilo es la protección dispensada a los nacionales no comunitarios o a los apátridas a quienes se reconozca la condición de refugiado en los términos definidos en el artículo 3 de esta Ley y en la Convención sobre el Estatuto de los Refugiados, hecha en Ginebra el 28 de julio de 1951, y su Protocolo, suscrito en Nueva York el 31 de enero de 1967.",
+          "document_id": 1288147
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Qué es la protección subsidiaria?",
+              "id": 618739,
+              "answers": [
+                {
+                  "answer_id": 663000,
+                  "document_id": 1288149,
+                  "question_id": 618739,
+                  "text": "El derecho a la protección subsidiaria es el dispensado a las personas de otros países y a los apátridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas, pero respecto de las cuales se den motivos fundados para creer que si regresasen a su país de origen en el caso de los nacionales o, al de su anterior residencia habitual en el caso de los apátridas, se enfrentarían a un riesgo real de sufrir alguno de los daños graves previstos en el artículo 10 de esta Ley, y que no pueden o, a causa de dicho riesgo, no quieren, acogerse a la protección del país de que se trate, siempre que no concurra alguno de los supuestos mencionados en los artículos 11 y 12 de esta Ley.",
+                  "answer_start": 39,
+                  "answer_end": 747,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "No he sido reconocido como refugiado. ¿Qué alternativa tengo?",
+              "id": 618740,
+              "answers": [
+                {
+                  "answer_id": 663001,
+                  "document_id": 1288149,
+                  "question_id": 618740,
+                  "text": "El derecho a la protección subsidiaria es el dispensado a las personas de otros países y a los apátridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas",
+                  "answer_start": 39,
+                  "answer_end": 230,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "No he obtenido el derecho de asilo. ¿Qué alternativas tengo?",
+              "id": 618741,
+              "answers": [
+                {
+                  "answer_id": 663002,
+                  "document_id": 1288149,
+                  "question_id": 618741,
+                  "text": "El derecho a la protección subsidiaria es el dispensado a las personas de otros países y a los apátridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas",
+                  "answer_start": 39,
+                  "answer_end": 230,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 4. La protección subsidiaria.\nEl derecho a la protección subsidiaria es el dispensado a las personas de otros países y a los apátridas que, sin reunir los requisitos para obtener el asilo o ser reconocidas como refugiadas, pero respecto de las cuales se den motivos fundados para creer que si regresasen a su país de origen en el caso de los nacionales o, al de su anterior residencia habitual en el caso de los apátridas, se enfrentarían a un riesgo real de sufrir alguno de los daños graves previstos en el artículo 10 de esta Ley, y que no pueden o, a causa de dicho riesgo, no quieren, acogerse a la protección del país de que se trate, siempre que no concurra alguno de los supuestos mencionados en los artículos 11 y 12 de esta Ley.",
+          "document_id": 1288149
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Qué derechos tendría si se me concediera el derecho de asilo?",
+              "id": 618743,
+              "answers": [
+                {
+                  "answer_id": 663003,
+                  "document_id": 1288150,
+                  "question_id": 618743,
+                  "text": "no devolución ni expulsión de las personas a quienes se les haya reconocido, así como en la adopción de las medidas contempladas en el artículo 36 de esta Ley y en las normas que lo desarrollen, en la normativa de la Unión Europea y en los Convenios internacionales ratificados por España.",
+                  "answer_start": 167,
+                  "answer_end": 456,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué derechos tendría si se me concediera la protección subsidiaria?",
+              "id": 618744,
+              "answers": [
+                {
+                  "answer_id": 663004,
+                  "document_id": 1288150,
+                  "question_id": 618744,
+                  "text": "no devolución ni expulsión de las personas a quienes se les haya reconocido, así como en la adopción de las medidas contempladas en el artículo 36 de esta Ley y en las normas que lo desarrollen, en la normativa de la Unión Europea y en los Convenios internacionales ratificados por España.",
+                  "answer_start": 167,
+                  "answer_end": 456,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 5. Derechos garantizados con el asilo y la protección subsidiaria.\nLa protección concedida con el derecho de asilo y la protección subsidiaria consiste en la no devolución ni expulsión de las personas a quienes se les haya reconocido, así como en la adopción de las medidas contempladas en el artículo 36 de esta Ley y en las normas que lo desarrollen, en la normativa de la Unión Europea y en los Convenios internacionales ratificados por España.",
+          "document_id": 1288150
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Qué es nacionalidad?",
+              "id": 618750,
+              "answers": [
+                {
+                  "answer_id": 663010,
+                  "document_id": 1288152,
+                  "question_id": 618750,
+                  "text": "el concepto de nacionalidad no se limitará a poseer o no la ciudadanía, sino que comprenderá, en particular, la pertenencia a un grupo determinado por su identidad cultural, étnica o lingüística, sus orígenes geográficos o políticos comunes o su relación con la población de otro Estado;",
+                  "answer_start": 674,
+                  "answer_end": 961,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué se entiende por raza?",
+              "id": 618748,
+              "answers": [
+                {
+                  "answer_id": 663008,
+                  "document_id": 1288152,
+                  "question_id": 618748,
+                  "text": "el concepto de raza comprenderá, en particular, el color, el origen o la pertenencia a un determinado grupo étnico;",
+                  "answer_start": 127,
+                  "answer_end": 242,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué entendemos por religión?",
+              "id": 618749,
+              "answers": [
+                {
+                  "answer_id": 663009,
+                  "document_id": 1288152,
+                  "question_id": 618749,
+                  "text": "el concepto de religión comprenderá, en particular, la profesión de creencias teístas, no teístas y ateas, la participación o la abstención de hacerlo, en cultos formales en privado o en público, ya sea individualmente o en comunidad, así como otros actos o expresiones que comporten una opinión de carácter religioso, o formas de conducta personal o comunitaria basadas en cualquier creencia religiosa u ordenadas por ésta;",
+                  "answer_start": 246,
+                  "answer_end": 670,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué se entiende por opiniones políticas?",
+              "id": 618752,
+              "answers": [
+                {
+                  "answer_id": 663011,
+                  "document_id": 1288152,
+                  "question_id": 618752,
+                  "text": " el concepto de opiniones políticas comprenderá, en particular, la profesión de opiniones, ideas o creencias sobre un asunto relacionado con los agentes potenciales de persecución y con sus políticas o métodos, independientemente de que el solicitante haya o no obrado de acuerdo con tales opiniones, ideas o creencias;",
+                  "answer_start": 964,
+                  "answer_end": 1283,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué se considera como grupo social?",
+              "id": 618754,
+              "answers": [
+                {
+                  "answer_id": 663012,
+                  "document_id": 1288152,
+                  "question_id": 618754,
+                  "text": "se considerará que un grupo constituye un grupo social determinado, si, en particular:\n- las personas integrantes de dicho grupo comparten una característica innata o unos antecedentes comunes que no pueden cambiarse, o bien comparten una característica o creencia que resulta tan fundamental para su identidad o conciencia que no se les puede exigir que renuncien a ella, y\n- dicho grupo posee una identidad diferenciada en el país de que se trate por ser percibido como diferente por la sociedad que lo rodea o por el agente o agentes perseguidores.\nEn función de las circunstancias imperantes en el país de origen, se incluye en el concepto de grupo social determinado un grupo basado en una característica común de orientación sexual o identidad sexual, y, o, edad, sin que estos aspectos por sí solos puedan dar lugar a la aplicación del presente artículo.",
+                  "answer_start": 1287,
+                  "answer_end": 2148,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Puedo solicitar protección como refugiado por mi orientación sexual?",
+              "id": 618757,
+              "answers": [
+                {
+                  "answer_id": 663013,
+                  "document_id": 1288152,
+                  "question_id": 618757,
+                  "text": "sin que estos aspectos por sí solos puedan dar lugar a la aplicación del presente artículo.",
+                  "answer_start": 2513,
+                  "answer_end": 2604,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Debe haber un problema racial para que se me considere refugiado?",
+              "id": 618759,
+              "answers": [
+                {
+                  "answer_id": 663015,
+                  "document_id": 1288152,
+                  "question_id": 618759,
+                  "text": "En la valoración acerca de si la persona solicitante tiene fundados temores a ser perseguida será indiferente el hecho de que posea realmente la característica racial, religiosa, nacional, social o política que suscita la persecución, a condición de que el agente de persecución se la atribuya.",
+                  "answer_start": 2608,
+                  "answer_end": 2902,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Debe haber una situación de conflicto en religión para que sea considerado refugiado?",
+              "id": 618760,
+              "answers": [
+                {
+                  "answer_id": 663016,
+                  "document_id": 1288152,
+                  "question_id": 618760,
+                  "text": "En la valoración acerca de si la persona solicitante tiene fundados temores a ser perseguida será indiferente el hecho de que posea realmente la característica racial, religiosa, nacional, social o política que suscita la persecución, a condición de que el agente de persecución se la atribuya.",
+                  "answer_start": 2608,
+                  "answer_end": 2902,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 7. Motivos de persecución.\n1. Al valorar los motivos de persecución se tendrán en cuenta los siguientes elementos:\na) el concepto de raza comprenderá, en particular, el color, el origen o la pertenencia a un determinado grupo étnico;\nb) el concepto de religión comprenderá, en particular, la profesión de creencias teístas, no teístas y ateas, la participación o la abstención de hacerlo, en cultos formales en privado o en público, ya sea individualmente o en comunidad, así como otros actos o expresiones que comporten una opinión de carácter religioso, o formas de conducta personal o comunitaria basadas en cualquier creencia religiosa u ordenadas por ésta;\nc) el concepto de nacionalidad no se limitará a poseer o no la ciudadanía, sino que comprenderá, en particular, la pertenencia a un grupo determinado por su identidad cultural, étnica o lingüística, sus orígenes geográficos o políticos comunes o su relación con la población de otro Estado;\nd) el concepto de opiniones políticas comprenderá, en particular, la profesión de opiniones, ideas o creencias sobre un asunto relacionado con los agentes potenciales de persecución y con sus políticas o métodos, independientemente de que el solicitante haya o no obrado de acuerdo con tales opiniones, ideas o creencias;\ne) se considerará que un grupo constituye un grupo social determinado, si, en particular:\n- las personas integrantes de dicho grupo comparten una característica innata o unos antecedentes comunes que no pueden cambiarse, o bien comparten una característica o creencia que resulta tan fundamental para su identidad o conciencia que no se les puede exigir que renuncien a ella, y\n- dicho grupo posee una identidad diferenciada en el país de que se trate por ser percibido como diferente por la sociedad que lo rodea o por el agente o agentes perseguidores.\nEn función de las circunstancias imperantes en el país de origen, se incluye en el concepto de grupo social determinado un grupo basado en una característica común de orientación sexual o identidad sexual, y, o, edad, sin que estos aspectos por sí solos puedan dar lugar a la aplicación del presente artículo. En ningún caso podrá entenderse como orientación sexual, la realización de conductas tipificadas como delito en el ordenamiento jurídico español.\nAsimismo, en función de las circunstancias imperantes en el país de origen, se incluye a las personas que huyen de sus países de origen debido a fundados temores de sufrir persecución por motivos de género y, o, edad, sin que estos aspectos por sí solos puedan dar lugar a la aplicación del presente artículo.\n2. En la valoración acerca de si la persona solicitante tiene fundados temores a ser perseguida será indiferente el hecho de que posea realmente la característica racial, religiosa, nacional, social o política que suscita la persecución, a condición de que el agente de persecución se la atribuya.",
+          "document_id": 1288152
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Qué actos se consideran como persecución?",
+              "id": 618745,
+              "answers": [
+                {
+                  "answer_id": 663005,
+                  "document_id": 1288151,
+                  "question_id": 618745,
+                  "text": "1. Los actos en que se basen los fundados temores a ser objeto de persecución en el sentido previsto en el artículo 3 de esta Ley, deberán:\na) ser suficientemente graves por su naturaleza o carácter reiterado como para constituir una violación grave de los derechos fundamentales, en particular los derechos que no puedan ser objeto de excepciones al amparo del apartado segundo del artículo 15 del Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales, o bien\nb) ser una acumulación lo suficientemente grave de varias medidas, incluidas las violaciones de derechos humanos, como para afectar a una persona de manera similar a la mencionada en la letra a).",
+                  "answer_start": 34,
+                  "answer_end": 730,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué se considera como actos de persecución graves?",
+              "id": 618746,
+              "answers": [
+                {
+                  "answer_id": 663006,
+                  "document_id": 1288151,
+                  "question_id": 618746,
+                  "text": "2. Los actos de persecución definidos en el apartado primero podrán revestir, entre otras, las siguientes formas:\na) actos de violencia física o psíquica, incluidos los actos de violencia sexual;\nb) medidas legislativas, administrativas, policiales o judiciales que sean discriminatorias en sí mismas o que se apliquen de manera discriminatoria;\nc) procesamientos o penas que sean desproporcionados o discriminatorios;\nd) denegación de tutela judicial de la que se deriven penas desproporcionadas o discriminatorias;\ne) procesamientos o penas por la negativa a prestar servicio militar en un conflicto en el que el cumplimiento de dicho servicio conllevaría delitos o actos comprendidos en las cláusulas de exclusión establecidas en el apartado segundo del artículo 8 de esta Ley;\nf) actos de naturaleza sexual que afecten a adultos o a niños.",
+                  "answer_start": 731,
+                  "answer_end": 1574,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Es suficiente para solicitar la condición de refugiado, que existan actos de persecución?",
+              "id": 618747,
+              "answers": [
+                {
+                  "answer_id": 663007,
+                  "document_id": 1288151,
+                  "question_id": 618747,
+                  "text": "3. Los actos de persecución definidos en el presente artículo deberán estar relacionados con los motivos mencionados en el artículo siguiente.",
+                  "answer_start": 1575,
+                  "answer_end": 1717,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 6. Actos de persecución.\n1. Los actos en que se basen los fundados temores a ser objeto de persecución en el sentido previsto en el artículo 3 de esta Ley, deberán:\na) ser suficientemente graves por su naturaleza o carácter reiterado como para constituir una violación grave de los derechos fundamentales, en particular los derechos que no puedan ser objeto de excepciones al amparo del apartado segundo del artículo 15 del Convenio Europeo para la Protección de los Derechos Humanos y de las Libertades Fundamentales, o bien\nb) ser una acumulación lo suficientemente grave de varias medidas, incluidas las violaciones de derechos humanos, como para afectar a una persona de manera similar a la mencionada en la letra a).\n2. Los actos de persecución definidos en el apartado primero podrán revestir, entre otras, las siguientes formas:\na) actos de violencia física o psíquica, incluidos los actos de violencia sexual;\nb) medidas legislativas, administrativas, policiales o judiciales que sean discriminatorias en sí mismas o que se apliquen de manera discriminatoria;\nc) procesamientos o penas que sean desproporcionados o discriminatorios;\nd) denegación de tutela judicial de la que se deriven penas desproporcionadas o discriminatorias;\ne) procesamientos o penas por la negativa a prestar servicio militar en un conflicto en el que el cumplimiento de dicho servicio conllevaría delitos o actos comprendidos en las cláusulas de exclusión establecidas en el apartado segundo del artículo 8 de esta Ley;\nf) actos de naturaleza sexual que afecten a adultos o a niños.\n3. Los actos de persecución definidos en el presente artículo deberán estar relacionados con los motivos mencionados en el artículo siguiente.",
+          "document_id": 1288151
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Por qué motivo puedo quedar excluido de la condición de refugiado?",
+              "id": 618761,
+              "answers": [
+                {
+                  "answer_id": 663017,
+                  "document_id": 1288153,
+                  "question_id": 618761,
+                  "text": "1. Quedarán excluidas de la condición de refugiados:\na) las personas que estén comprendidas en el ámbito de aplicación de la sección D del artículo 1 de la Convención de Ginebra en lo relativo a la protección o asistencia de un órgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados. Cuando esta protección o asistencia haya cesado por cualquier motivo, sin que la suerte de tales personas se haya solucionado definitivamente con arreglo a las Resoluciones aprobadas sobre el particular por la Asamblea General de las Naciones Unidas, aquéllas tendrán, «ipso facto», derecho a los beneficios del asilo regulado en la presente Ley;\nb) las personas a quienes las autoridades competentes del país donde hayan fijado su residencia les hayan reconocido los derechos y obligaciones que son inherentes a la posesión de la nacionalidad de tal país, o derechos y obligaciones equivalentes a ellos.\n2. También quedarán excluidas las personas extranjeras sobre las que existan motivos fundados para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de refugio antes de ser admitidas como refugiadas, es decir, antes de la expedición de una autorización de residencia basada en el reconocimiento de la condición de refugiado, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas.",
+                  "answer_start": 33,
+                  "answer_end": 2269,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Por qué motivo puedo quedar excluido de la protección subsidiaria?",
+              "id": 618763,
+              "answers": [
+                {
+                  "answer_id": 663018,
+                  "document_id": 1288153,
+                  "question_id": 618763,
+                  "text": "1. Quedarán excluidas de la condición de refugiados:\na) las personas que estén comprendidas en el ámbito de aplicación de la sección D del artículo 1 de la Convención de Ginebra en lo relativo a la protección o asistencia de un órgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados. Cuando esta protección o asistencia haya cesado por cualquier motivo, sin que la suerte de tales personas se haya solucionado definitivamente con arreglo a las Resoluciones aprobadas sobre el particular por la Asamblea General de las Naciones Unidas, aquéllas tendrán, «ipso facto», derecho a los beneficios del asilo regulado en la presente Ley;\nb) las personas a quienes las autoridades competentes del país donde hayan fijado su residencia les hayan reconocido los derechos y obligaciones que son inherentes a la posesión de la nacionalidad de tal país, o derechos y obligaciones equivalentes a ellos.\n2. También quedarán excluidas las personas extranjeras sobre las que existan motivos fundados para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de refugio antes de ser admitidas como refugiadas, es decir, antes de la expedición de una autorización de residencia basada en el reconocimiento de la condición de refugiado, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas.",
+                  "answer_start": 33,
+                  "answer_end": 2269,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 8. Causas de exclusión.\n1. Quedarán excluidas de la condición de refugiados:\na) las personas que estén comprendidas en el ámbito de aplicación de la sección D del artículo 1 de la Convención de Ginebra en lo relativo a la protección o asistencia de un órgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados. Cuando esta protección o asistencia haya cesado por cualquier motivo, sin que la suerte de tales personas se haya solucionado definitivamente con arreglo a las Resoluciones aprobadas sobre el particular por la Asamblea General de las Naciones Unidas, aquéllas tendrán, «ipso facto», derecho a los beneficios del asilo regulado en la presente Ley;\nb) las personas a quienes las autoridades competentes del país donde hayan fijado su residencia les hayan reconocido los derechos y obligaciones que son inherentes a la posesión de la nacionalidad de tal país, o derechos y obligaciones equivalentes a ellos.\n2. También quedarán excluidas las personas extranjeras sobre las que existan motivos fundados para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de refugio antes de ser admitidas como refugiadas, es decir, antes de la expedición de una autorización de residencia basada en el reconocimiento de la condición de refugiado, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas.\n3. El apartado segundo se aplicará a las personas que inciten a la comisión de los delitos o actos mencionados en él, o bien participen en su comisión.",
+          "document_id": 1288153
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Quién se excluye de la protección subsidiaria?",
+              "id": 618644,
+              "answers": [
+                {
+                  "answer_id": 662901,
+                  "document_id": 1288136,
+                  "question_id": 618644,
+                  "text": "1. Quedarán excluidas de la condición de beneficiarias de la protección subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de protección antes de ser admitidas como beneficiarias de la protección subsidiaria, es decir, antes de la expedición de la autorización de residencia basada en el reconocimiento de la condición de beneficiario de protección subsidiaria, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de España o para el orden público.\n2. Lo dispuesto en los apartados anteriores se aplicará a quienes inciten a la comisión de los delitos o actos mencionados en los mismos, o bien participen en su comisión.",
+                  "answer_start": 34,
+                  "answer_end": 1708,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Puede ser que no se me conceda la protección?",
+              "id": 618645,
+              "answers": [
+                {
+                  "answer_id": 662902,
+                  "document_id": 1288136,
+                  "question_id": 618645,
+                  "text": "1. Quedarán excluidas de la condición de beneficiarias de la protección subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de protección antes de ser admitidas como beneficiarias de la protección subsidiaria, es decir, antes de la expedición de la autorización de residencia basada en el reconocimiento de la condición de beneficiario de protección subsidiaria, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de España o para el orden público.\n2. Lo dispuesto en los apartados anteriores se aplicará a quienes inciten a la comisión de los delitos o actos mencionados en los mismos, o bien participen en su comisión.",
+                  "answer_start": 34,
+                  "answer_end": 1708,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué personas quedan excluidas de la protección subsidiaria?",
+              "id": 618646,
+              "answers": [
+                {
+                  "answer_id": 662903,
+                  "document_id": 1288136,
+                  "question_id": 618646,
+                  "text": "1. Quedarán excluidas de la condición de beneficiarias de la protección subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de protección antes de ser admitidas como beneficiarias de la protección subsidiaria, es decir, antes de la expedición de la autorización de residencia basada en el reconocimiento de la condición de beneficiario de protección subsidiaria, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de España o para el orden público.\n2. Lo dispuesto en los apartados anteriores se aplicará a quienes inciten a la comisión de los delitos o actos mencionados en los mismos, o bien participen en su comisión.",
+                  "answer_start": 34,
+                  "answer_end": 1708,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 11. Causas de exclusión.\n1. Quedarán excluidas de la condición de beneficiarias de la protección subsidiaria aquellas personas respecto de las que existan fundados motivos para considerar que:\na) han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos;\nb) han cometido fuera del país de protección antes de ser admitidas como beneficiarias de la protección subsidiaria, es decir, antes de la expedición de la autorización de residencia basada en el reconocimiento de la condición de beneficiario de protección subsidiaria, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español y que afecten a la vida, la libertad, la indemnidad o la libertad sexual, la integridad de las personas o el patrimonio, siempre que fuesen realizados con fuerza en las cosas, o violencia o intimidación en las personas, así como en los casos de la delincuencia organizada, debiendo entenderse incluida, en todo caso, en el término delincuencia organizada la recogida en el apartado cuarto del artículo 282 bis de la Ley de Enjuiciamiento Criminal, en relación con los delitos enumerados;\nc) son culpables de actos contrarios a las finalidades y a los principios de las Naciones Unidas establecidos en el Preámbulo y en los artículos 1 y 2 de la Carta de las Naciones Unidas;\nd) constituyen un peligro para la seguridad interior o exterior de España o para el orden público.\n2. Lo dispuesto en los apartados anteriores se aplicará a quienes inciten a la comisión de los delitos o actos mencionados en los mismos, o bien participen en su comisión.",
+          "document_id": 1288136
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Por parte de quien pueden haberse ejercido los daños?",
+              "id": 618650,
+              "answers": [
+                {
+                  "answer_id": 662908,
+                  "document_id": 1288138,
+                  "question_id": 618650,
+                  "text": "Los agentes de persecución o causantes de daños graves podrán ser, entre otros:\na) el Estado;\nb) los partidos u organizaciones que controlen el Estado o una parte considerable de su territorio;\nc) agentes no estatales, cuando los agentes mencionados en los puntos anteriores, incluidas las organizaciones internacionales, no puedan o no quieran proporcionar protección efectiva contra la persecución o los daños graves.",
+                  "answer_start": 65,
+                  "answer_end": 484,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 13. Agentes de persecución o causantes de daños graves.\nLos agentes de persecución o causantes de daños graves podrán ser, entre otros:\na) el Estado;\nb) los partidos u organizaciones que controlen el Estado o una parte considerable de su territorio;\nc) agentes no estatales, cuando los agentes mencionados en los puntos anteriores, incluidas las organizaciones internacionales, no puedan o no quieran proporcionar protección efectiva contra la persecución o los daños graves.",
+          "document_id": 1288138
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Para solicitar derecho de asilo, ¿los actos a presentar pueden haberse dado recientemente?",
+              "id": 618657,
+              "answers": [
+                {
+                  "answer_id": 662917,
+                  "document_id": 1288140,
+                  "question_id": 618657,
+                  "text": "pueden asimismo basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del país de origen o, en el caso de apátridas, el de residencia habitual",
+                  "answer_start": 225,
+                  "answer_end": 441,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Los actos deben haber sucedido en el país de origen?",
+              "id": 618658,
+              "answers": [
+                {
+                  "answer_id": 662921,
+                  "document_id": 1288140,
+                  "question_id": 618658,
+                  "text": "pueden asimismo basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del país de origen o, en el caso de apátridas, el de residencia habitual",
+                  "answer_start": 225,
+                  "answer_end": 441,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 15. Necesidades de protección internacional surgidas «in situ».\n1. Los fundados temores de ser perseguido o el riesgo real de sufrir daños graves a que se refieren, respectivamente, los artículos 6 y 10 de esta Ley, pueden asimismo basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del país de origen o, en el caso de apátridas, el de residencia habitual, en especial si se demuestra que dichos acontecimientos o actividades constituyen la expresión de convicciones u orientaciones mantenidas en el país de origen o de residencia habitual.\n2. En estos supuestos, se ponderará, a efectos de no reconocer la condición de refugiado, el hecho de que el riesgo de persecución esté basado en circunstancias expresamente creadas por la persona solicitante tras abandonar su país de origen o, en el caso de apátridas, el de su residencia habitual.",
+          "document_id": 1288140
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Cómo empezar el proceso?",
+              "id": 618665,
+              "answers": [
+                {
+                  "answer_id": 662928,
+                  "document_id": 1288142,
+                  "question_id": 618665,
+                  "text": "1. El procedimiento se inicia con la presentación de la solicitud, que deberá efectuarse mediante comparecencia personal de los interesados que soliciten protección en los lugares que reglamentariamente se establezcan, o en caso de imposibilidad física o legal, mediante persona que lo represente. En este último caso, el solicitante deberá ratificar la petición una vez desaparezca el impedimento.",
+                  "answer_start": 43,
+                  "answer_end": 441,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué plazo tengo para solicitar protección?",
+              "id": 618662,
+              "answers": [
+                {
+                  "answer_id": 662925,
+                  "document_id": 1288142,
+                  "question_id": 618662,
+                  "text": "La comparecencia deberá realizarse sin demora y en todo caso en el plazo máximo de un mes desde la entrada en el territorio español o, en todo caso, desde que se produzcan los acontecimientos que justifiquen el temor fundado de persecución o daños graves",
+                  "answer_start": 445,
+                  "answer_end": 699,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Puedo ser sancionada si estoy a la espera de resolución?",
+              "id": 618663,
+              "answers": [
+                {
+                  "answer_id": 662926,
+                  "document_id": 1288142,
+                  "question_id": 618663,
+                  "text": "la entrada ilegal en territorio español no podrá ser sancionada cuando haya sido realizada por persona que reúna los requisitos para ser beneficiaria de la protección internacional prevista en esta Ley.",
+                  "answer_start": 718,
+                  "answer_end": 920,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cómo se inicia el proceso?",
+              "id": 618664,
+              "answers": [
+                {
+                  "answer_id": 662927,
+                  "document_id": 1288142,
+                  "question_id": 618664,
+                  "text": "1. El procedimiento se inicia con la presentación de la solicitud, que deberá efectuarse mediante comparecencia personal de los interesados que soliciten protección en los lugares que reglamentariamente se establezcan, o en caso de imposibilidad física o legal, mediante persona que lo represente. En este último caso, el solicitante deberá ratificar la petición una vez desaparezca el impedimento",
+                  "answer_start": 43,
+                  "answer_end": 440,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Podré entender el proceso de solicitud, independientemente de mi idioma?",
+              "id": 618667,
+              "answers": [
+                {
+                  "answer_id": 662930,
+                  "document_id": 1288142,
+                  "question_id": 618667,
+                  "text": "3. En el momento de efectuar la solicitud, la persona extranjera será informada, en una lengua que pueda comprender",
+                  "answer_start": 921,
+                  "answer_end": 1036,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 17. Presentación de la solicitud.\n1. El procedimiento se inicia con la presentación de la solicitud, que deberá efectuarse mediante comparecencia personal de los interesados que soliciten protección en los lugares que reglamentariamente se establezcan, o en caso de imposibilidad física o legal, mediante persona que lo represente. En este último caso, el solicitante deberá ratificar la petición una vez desaparezca el impedimento.\n2. La comparecencia deberá realizarse sin demora y en todo caso en el plazo máximo de un mes desde la entrada en el territorio español o, en todo caso, desde que se produzcan los acontecimientos que justifiquen el temor fundado de persecución o daños graves. A estos efectos, la entrada ilegal en territorio español no podrá ser sancionada cuando haya sido realizada por persona que reúna los requisitos para ser beneficiaria de la protección internacional prevista en esta Ley.\n3. En el momento de efectuar la solicitud, la persona extranjera será informada, en una lengua que pueda comprender, acerca de:\na) el procedimiento que debe seguirse;\nb) sus derechos y obligaciones durante la tramitación, en especial en materia de plazos y medios de que dispone para cumplir éstas;\nc) la posibilidad de contactar con el Alto Comisionado de las Naciones Unidas para los Refugiados y con las Organizaciones no Gubernamentales legalmente reconocidas entre cuyos objetivos figure el asesoramiento y ayuda a las personas necesitadas de protección internacional;\nd) las posibles consecuencias del incumplimiento de sus obligaciones o de su falta de colaboración con las autoridades; y\ne) los derechos y prestaciones sociales a los que tiene acceso en su condición de solicitante de protección internacional.\n4. La solicitud se formalizará mediante entrevista personal que se realizará siempre individualmente. De forma excepcional, podrá requerirse la presencia de otros miembros de la familia de los solicitantes, si ello se considerase imprescindible para la adecuada formalización de la solicitud.\n5. La Administración adoptará las medidas necesarias para que, cuando sea preciso, en la entrevista se preste un tratamiento diferenciado por razón del sexo de la persona solicitante o demás circunstancias previstas en el artículo 46 de esta Ley. De este trámite se dejará debida constancia en el expediente administrativo.\n6. Las personas encargadas de efectuar la entrevista informarán a los solicitantes sobre cómo efectuar la solicitud, y les ayudarán a cumplimentarla, facilitándoles la información básica en relación con aquélla. Asimismo, colaborarán con los interesados para establecer los hechos relevantes de su solicitud.\n7. Cuando razones de seguridad lo aconsejen, se podrá registrar a la persona solicitante y sus pertenencias, siempre y cuando se garantice el pleno respeto a su dignidad e integridad.\n8. En los términos que se establezcan reglamentariamente, se planteará la posibilidad de una nueva audiencia personal sobre su solicitud de asilo. La ponderación sobre la necesidad o no de efectuar nuevas entrevistas será motivada.",
+          "document_id": 1288142
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Tengo derecho a abogado?",
+              "id": 618672,
+              "answers": [
+                {
+                  "answer_id": 662935,
+                  "document_id": 1288144,
+                  "question_id": 618672,
+                  "text": "Las personas solicitantes de asilo tienen derecho a entrevistarse con un abogado en las dependencias de los puestos fronterizos y centros de internamiento de extranjeros.",
+                  "answer_start": 1107,
+                  "answer_end": 1277,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Se me puede extraditar en el plazo de la solicitud?",
+              "id": 618670,
+              "answers": [
+                {
+                  "answer_id": 662933,
+                  "document_id": 1288144,
+                  "question_id": 618670,
+                  "text": "podrá entregarse o extraditarse a una persona solicitante, según proceda, a otro Estado miembro de la Unión Europea en virtud de las obligaciones dimanantes de una orden europea de detención y entrega, o a un país tercero ante órganos judiciales penales internacionales.",
+                  "answer_start": 833,
+                  "answer_end": 1103,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 19. Efectos de la presentación de la solicitud.\n1. Solicitada la protección, la persona extranjera no podrá ser objeto de retorno, devolución o expulsión hasta que se resuelva sobre su solicitud o ésta no sea admitida. No obstante, por motivos de salud o seguridad públicas, la autoridad competente podrá adoptar medidas cautelares en aplicación de la normativa vigente en materia de extranjería e inmigración.\n2. Asimismo, la solicitud de protección suspenderá, hasta la decisión definitiva, la ejecución del fallo de cualquier proceso de extradición de la persona interesada que se halle pendiente. A tal fin, la solicitud será comunicada inmediatamente al órgano judicial o al órgano gubernativo ante el que en ese momento tuviera lugar el correspondiente proceso.\n3. No obstante lo previsto en los apartados anteriores, podrá entregarse o extraditarse a una persona solicitante, según proceda, a otro Estado miembro de la Unión Europea en virtud de las obligaciones dimanantes de una orden europea de detención y entrega, o a un país tercero ante órganos judiciales penales internacionales.\n4. Las personas solicitantes de asilo tienen derecho a entrevistarse con un abogado en las dependencias de los puestos fronterizos y centros de internamiento de extranjeros. Reglamentariamente, y sin perjuicio de las normas de funcionamiento establecidas para las citadas dependencias y centros, podrán establecerse condiciones para el ejercicio de este derecho derivadas de razones de seguridad, orden público o de su gestión administrativa.\n5. La solicitud de protección dará lugar al inicio del cómputo de los plazos previstos para su tramitación.\n6. La resolución que admita a trámite una solicitud de asilo determinará el procedimiento correspondiente.\n7. En caso de que la tramitación de una solicitud pudiese exceder de seis meses, ampliables de acuerdo con lo previsto en el artículo 49 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, para su resolución y notificación, se informará a la persona interesada del motivo de la demora.",
+          "document_id": 1288144
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Cuál es el objetivo de la ley reguladora del derecho de asilo y de la protección subsidiaria?",
+              "id": 618727,
+              "answers": [
+                {
+                  "answer_id": 662990,
+                  "document_id": 1288146,
+                  "question_id": 618727,
+                  "text": "establecer los términos en que las personas nacionales de países no comunitarios y las apátridas podrán gozar en España de la protección internacional constituida por el derecho de asilo y la protección subsidiaria, así como el contenido de dicha protección internacional.",
+                  "answer_start": 149,
+                  "answer_end": 421,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿En qué consiste la ley reguladora del derecho de asilo y de la protección subsidiaria?",
+              "id": 618728,
+              "answers": [
+                {
+                  "answer_id": 662991,
+                  "document_id": 1288146,
+                  "question_id": 618728,
+                  "text": "establecer los términos en que las personas nacionales de países no comunitarios y las apátridas podrán gozar en España de la protección internacional constituida por el derecho de asilo y la protección subsidiaria, así como el contenido de dicha protección internacional.",
+                  "answer_start": 149,
+                  "answer_end": 421,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué personas se consideran en la ley reguladora del derecho de asilo y de la protección subsidiaria?",
+              "id": 618730,
+              "answers": [
+                {
+                  "answer_id": 662992,
+                  "document_id": 1288146,
+                  "question_id": 618730,
+                  "text": "las personas nacionales de países no comunitarios y las apátridas",
+                  "answer_start": 180,
+                  "answer_end": 245,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Qué colectivos se consideran en la ley reguladora del derecho de asilo y de la protección subsidiaria?",
+              "id": 618731,
+              "answers": [
+                {
+                  "answer_id": 662993,
+                  "document_id": 1288146,
+                  "question_id": 618731,
+                  "text": " las personas nacionales de países no comunitarios y las apátridas",
+                  "answer_start": 179,
+                  "answer_end": 245,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿En qué consiste la Ley 12/2009, de 30 de octubre?",
+              "id": 618732,
+              "answers": [
+                {
+                  "answer_id": 662994,
+                  "document_id": 1288146,
+                  "question_id": 618732,
+                  "text": "establecer los términos en que las personas nacionales de países no comunitarios y las apátridas podrán gozar en España de la protección internacional constituida por el derecho de asilo y la protección subsidiaria, así como el contenido de dicha protección internacional.",
+                  "answer_start": 149,
+                  "answer_end": 421,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿Cuál es el objetivo de la Ley 12/2009, de 30 de octubre?",
+              "id": 618733,
+              "answers": [
+                {
+                  "answer_id": 662995,
+                  "document_id": 1288146,
+                  "question_id": 618733,
+                  "text": " establecer los términos en que las personas nacionales de países no comunitarios y las apátridas podrán gozar en España de la protección internacional constituida por el derecho de asilo y la protección subsidiaria, así como el contenido de dicha protección internacional.",
+                  "answer_start": 148,
+                  "answer_end": 421,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 1. Objeto de la ley.\nLa presente Ley, de acuerdo con lo previsto en el apartado cuatro del artículo 13 de la Constitución, tiene por objeto establecer los términos en que las personas nacionales de países no comunitarios y las apátridas podrán gozar en España de la protección internacional constituida por el derecho de asilo y la protección subsidiaria, así como el contenido de dicha protección internacional.",
+          "document_id": 1288146
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "¿Quién puede solicitar la condición de refugiado?",
+              "id": 618736,
+              "answers": [
+                {
+                  "answer_id": 662997,
+                  "document_id": 1288148,
+                  "question_id": 618736,
+                  "text": "se reconoce a toda persona que, debido a fundados temores de ser perseguida por motivos de raza, religión, nacionalidad, opiniones políticas, pertenencia a determinado grupo social, de género u orientación sexual, se encuentra fuera del país de su nacionalidad y no puede o, a causa de dichos temores, no quiere acogerse a la protección de tal país, o al apátrida que, careciendo de nacionalidad y hallándose fuera del país donde antes tuviera su residencia habitual, por los mismos motivos no puede o, a causa de dichos temores, no quiere regresar a él, y no esté incurso en alguna de las causas de exclusión del artículo 8 o de las causas de denegación o revocación del artículo 9.",
+                  "answer_start": 65,
+                  "answer_end": 748,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "¿A quién se otorga la condición de refugiado?",
+              "id": 618737,
+              "answers": [
+                {
+                  "answer_id": 662998,
+                  "document_id": 1288148,
+                  "question_id": 618737,
+                  "text": "se reconoce a toda persona que, debido a fundados temores de ser perseguida por motivos de raza, religión, nacionalidad, opiniones políticas, pertenencia a determinado grupo social, de género u orientación sexual, se encuentra fuera del país de su nacionalidad y no puede o, a causa de dichos temores, no quiere acogerse a la protección de tal país, o al apátrida que, careciendo de nacionalidad y hallándose fuera del país donde antes tuviera su residencia habitual, por los mismos motivos no puede o, a causa de dichos temores, no quiere regresar a él, y no esté incurso en alguna de las causas de exclusión del artículo 8 o de las causas de denegación o revocación del artículo 9.",
+                  "answer_start": 65,
+                  "answer_end": 748,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Artículo 3. La condición de refugiado.\nLa condición de refugiado se reconoce a toda persona que, debido a fundados temores de ser perseguida por motivos de raza, religión, nacionalidad, opiniones políticas, pertenencia a determinado grupo social, de género u orientación sexual, se encuentra fuera del país de su nacionalidad y no puede o, a causa de dichos temores, no quiere acogerse a la protección de tal país, o al apátrida que, careciendo de nacionalidad y hallándose fuera del país donde antes tuviera su residencia habitual, por los mismos motivos no puede o, a causa de dichos temores, no quiere regresar a él, y no esté incurso en alguna de las causas de exclusión del artículo 8 o de las causas de denegación o revocación del artículo 9.",
+          "document_id": 1288148
         }
       ]
     }
