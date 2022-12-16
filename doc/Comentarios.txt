@@ -8,6 +8,10 @@ Cómo estamos definiendo el train-test? Viene bien que tengamos separados en ori
 
 
 >> Acciones pendientes por funciones-herramienta:
--
+-Búsqueda de información de modelos. Revisar:
+https://docs.nlpcloud.com/#multilingual-add-on
+https://www.chatcompose.com/responderpreguntas.html
+
+-Revisar BDD. ¿Simplificar respuestas? ¿Volumen bdd origen?
 
 Seguimos!!
