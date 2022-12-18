@@ -1,0 +1,98 @@
+question,document_identifier,question_identifier
+¿Para que sirven las subvenciones?,1173227,642355
+¿Para quienes son las subvenciones?,1173227,642356
+¿Quien puede recibir las subenciones?,1173227,642357
+¿Que significa ACNUR?,1173228,642359
+¿Que servicios y prestaciones tienen C.A.R?,1173230,642370
+¿De qué se encarga ACNUR?,1173228,642360
+¿Donde provienen las subvenciones?,1173227,642354
+¿Que servicios y prestaciones tienen el Centro de Acogida a Refugiados?,1173230,642371
+¿Como podria ser beneficiario de los centros de Acogida?,1173231,642372
+¿Que hace ACNUR?,1173228,642361
+¿De donde recibe las subvenciones ACNUR?,1173228,642362
+¿Como ser beneficiario?,1173231,642373
+¿Que condición tienen que tener para ser beneficiarios?,1173231,642374
+¿Que significa C.A.R?,1173229,642363
+¿Que reglamento sigue?,1173231,642375
+¿Que significa CAR?,1173229,642364
+¿Que es C.A.R?,1173229,642365
+¿Que es CAR?,1173229,642366
+¿Los requsitos de CAR?,1173231,642376
+¿Los requisitos del centro?,1173231,642377
+¿Cunato tiempo dura la estancia?,1173232,642378
+¿Donde pueden pedir asilo?,1173229,642367
+¿Cunato tiempo puedo estar en el centro?,1173232,642379
+¿Cuantos dias tiene cuando esta denegada?,1173232,642380
+¿periodo disponible cuando esta denegada en el centro?,1173232,642381
+¿De que depende la prórroga de estancia?,1173232,642382
+¿En que momento se puede pedir las ayudas?,1173234,642383
+¿Periodo de resolución?,1173235,642384
+¿Donde pueden ir los refugiados?,1173229,642368
+¿Que servicios y prestaciones tienen CAR?,1173230,642369
+¿Tiempo de resolución?,1173235,642385
+¿Cuales el decreto de la resoluón?,1173235,642386
+¿Tiempo para la norificación de la resolución?,1173235,642387
+¿La normativa para ayuda economica?,1173236,642388
+¿Las cuantias de ayudas?,1173236,642389
+¿Donde se presenta la solicitud?,1173237,642390
+¿ué se consideran daños graves?,1288135,662898
+¿Por qué me han denegado?,1288134,662894
+¿Qué daños pueden llevar a la asignación de protección subsidiaria?,1288135,662897
+¿Qué se consideran daños graves en base a los cuales se pueda solicitar protección subsidiaria?,1288135,662899
+Dónde puedo acudir para solicitar protección,1288139,662912
+¿Quién puede proporcionar la protección?,1288139,662913
+¿Qué se entiende por protección?,1288139,662914
+Para solicitar derecho de asilo ¿los actos a presentar pueden haberse dado recientemente?,1288140,662917
+¿Los actos deben haber sucedido en el país de origen?,1288140,662921
+¿Quién puede solicitar protección internacional?,1288141,662922
+¿A qué tienen derecho los solicitantes de protección internacional?,1288141,662923
+¿Puedo solicitar la protección internacional de forma confidencial?,1288141,662924
+¿Qué plazo tengo para solicitar protección?,1288142,662925
+¿Puedo ser sancionada si estoy a la espera de resolución?,1288142,662926
+¿Cómo se inicia el proceso?,1288142,662927
+¿Cómo empezar el proceso?,1288142,662928
+¿Podré entender el proceso de solicitud independientemente de mi idioma?,1288142,662930
+¿Qué derechos tiene el solicitante de asilo?,1288143,662931
+¿Qué obligaciones tiene el solicitante de protección internacional?,1288143,662932
+¿Se me puede extraditar en el plazo de la solicitud?,1288144,662933
+¿Tengo derecho a abogado?,1288144,662935
+¿Qué se entiende por raza?,1288152,663008
+¿Cuál es el objetivo de la ley reguladora del derecho de asilo y de la protección subsidiaria?,1288146,662990
+¿En qué consiste la ley reguladora del derecho de asilo y de la protección subsidiaria?,1288146,662991
+¿Qué personas se consideran en la ley reguladora del derecho de asilo y de la protección subsidiaria?,1288146,662992
+¿Qué colectivos se consideran en la ley reguladora del derecho de asilo y de la protección subsidiaria?,1288146,662993
+¿En qué consiste la Ley 12/2009 de 30 de octubre?,1288146,662994
+¿Cuál es el objetivo de la Ley 12/2009 de 30 de octubre?,1288146,662995
+¿Qué es el derecho de asilo?,1288147,662996
+¿Quién puede solicitar la condición de refugiado?,1288148,662997
+¿A quién se otorga la condición de refugiado?,1288148,662998
+¿Qué es la protección subsidiaria?,1288149,663000
+No he sido reconocido como refugiado. ¿Qué alternativa tengo?,1288149,663001
+No he obtenido el derecho de asilo. ¿Qué alternativas tengo?,1288149,663002
+¿Qué derechos tendría si se me concediera el derecho de asilo?,1288150,663003
+¿Qué derechos tendría si se me concediera la protección subsidiaria?,1288150,663004
+¿Qué actos se consideran como persecución?,1288151,663005
+¿Qué se considera como actos de persecución graves?,1288151,663006
+¿Es suficiente para solicitar la condición de refugiado que existan actos de persecución?,1288151,663007
+Me han denegado el derecho de asilo.,1288134,662893
+¿Quién se excluye de la protección subsidiaria?,1288136,662901
+¿Puede ser que no se me conceda la protección?,1288136,662902
+¿Qué personas quedan excluidas de la protección subsidiaria?,1288136,662903
+Me han denegado la protección subsidiaria.,1288137,662904
+¿Por qué me han denegado la protección subsidiaria?,1288137,662905
+¿Por qué motivos nos pueden denegar la protección subsidiaria?,1288137,662907
+¿Por parte de quien pueden haberse ejercido los daños?,1288138,662908
+Cuáles son las organizaciones que brindan protección,1288139,662909
+Qué organizaciones dan protección,1288139,662910
+A qué entidades puedo solicitar protección,1288139,662911
+¿Qué supone la no admisión a trámite?,1288145,662988
+¿Puede no admitirse a trámite mi petición?,1288145,662989
+¿Qué entendemos por religión?,1288152,663009
+¿Qué es nacionalidad?,1288152,663010
+¿Qué se entiende por opiniones políticas?,1288152,663011
+¿Qué se considera como grupo social?,1288152,663012
+¿Puedo solicitar protección como refugiado por mi orientación sexual?,1288152,663013
+¿Debe haber un problema racial para que se me considere refugiado?,1288152,663015
+¿Debe haber una situación de conflicto en religión para que sea considerado refugiado?,1288152,663016
+¿Por qué motivo puedo quedar excluido de la condición de refugiado?,1288153,663017
+¿Por qué motivo puedo quedar excluido de la protección subsidiaria?,1288153,663018
