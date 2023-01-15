@@ -14,4 +14,6 @@ https://www.chatcompose.com/responderpreguntas.html
 
 -Revisar BDD. ¿Simplificar respuestas? ¿Volumen bdd origen?
 
+-Revisar BDD. Haystack, borrar los "3 proyectos" que no estamos usando
+
 Seguimos!!
